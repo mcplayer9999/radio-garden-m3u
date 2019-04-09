@@ -27,3 +27,8 @@ http://lynx.prostreaming.net/proxy/wbrudev?mp=/stream&listening-from-radio-garde
 #EXTINF:-1 group-name="USA (RI)",WRNI-AM 1380 (Woonsocket)
 http://1.ice1.firststreaming.com:8000/wnri_am.aac?listening-from-radio-garden=1554821782314
 
+#EXTINF:-1 group-name="Mongolia",Best FM 98.5 (Ulaanbaatar)
+http://103.48.116.109:9000/;?listening-from-radio-garden=1554823751078
+
+#EXTINF:-1 group-name="Mongolia",MNB P3 100.9 FM (Ulaanbaatar)
+http://103.14.38.108:8000/radio2?listening-from-radio-garden=1554823822084
