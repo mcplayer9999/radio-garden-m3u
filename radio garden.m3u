@@ -32,3 +32,15 @@ http://103.48.116.109:9000/;?listening-from-radio-garden=1554823751078
 
 #EXTINF:-1 group-name="Mongolia",MNB P3 100.9 FM (Ulaanbaatar)
 http://103.14.38.108:8000/radio2?listening-from-radio-garden=1554823822084
+
+#EXTINF:-1 group-name="Central African Republic",Radio Ndeke Luka FM 100.8 (Bangui)
+http://stream.radiondekeluka.org:8001/ndekeluka?listening-from-radio-garden=1554824552445
+
+#EXTINF:-1 group-name="Gabon",Urban FM 104.5 (Libreville)
+https://listen.radioking.com/radio/87613/stream/125986?listening-from-radio-garden=1554824643215
+
+#EXTINF:-1 group-name="Burkina Faso",Pulsar FM 94.8 (Ouagadougou)
+http://pulsarouagadougou.ice.infomaniak.ch/pulsarouagadougou-64.mp3?listening-from-radio-garden=1554824798783
+
+#EXTINF:-1 group-name="Mali",Radio Madjoura 94.0 (Touba)
+http://ample-zeno-25.radiojar.com/445tct5avewtv?listening-from-radio-garden=1554825220089&rj-ttl=5&rj-token=AAABagLXOjxHZwRThyg3zczua0XVqQmzan0IDXJyiye3zgVcuYDL_Q
