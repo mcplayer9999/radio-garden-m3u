@@ -1,0 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1 group-name="USA (RI)",WCRI-FM Classical 95.9 (Block Is.)
+http://wcri.streamguys1.com/live-aac?listening-from-radio-garden=1554821088838
+
+#EXTINF:-1 group-name="USA (RI)",WXHQ-LP (FM) Radio Newport 105.9 (Newport)
+http://stream.1059xhq.org:8000/live?listening-from-radio-garden=1554821199285
+
+#EXTINF:-1 group-name="USA (RI)",WRIU-FM 90.3 University of RI Campus Radio
+http://stream.wriu.org/archive-fm?listening-from-radio-garden=1554821305356
+
+#EXTINF:-1 group-name="USA (RI)",WSKP-AM 1180 Kool Radio (Hopkinton)
+http://crystalout.surfernetwork.com:8001/WSKP-AM_MP3?listening-from-radio-garden=1554821404388
+
+#EXTINF:-1 group-name="USA (RI)",WPRV-AM 790 (Providence)
+http://14223.live.streamtheworld.com/WPRVAMAAC_SC?listening-from-radio-garden=1554821478696
+
+#EXTINF:-1 group-name="USA (RI)",WWLI-FM Lite Rock 105 (Providence)
+https://17413.live.streamtheworld.com/WWLIFMAAC_SC?listening-from-radio-garden=1554821578976
+
+#EXTINF:-1 group-name="USA (RI)",WSTL-FM La Mega 94.9 (Providence)
+http://185.50.197.212:9942/;?listening-from-radio-garden=1554821601883
+
+#EXTINF:-1 group-name="USA (RI)",WBRU Brown University (Providence)
+http://lynx.prostreaming.net/proxy/wbrudev?mp=/stream&listening-from-radio-garden=1554821694231
+
+#EXTINF:-1 group-name="USA (RI)",WRNI-AM 1380 (Woonsocket)
+http://1.ice1.firststreaming.com:8000/wnri_am.aac?listening-from-radio-garden=1554821782314
+
