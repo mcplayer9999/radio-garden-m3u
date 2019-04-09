@@ -8,4 +8,5 @@ Mongolia,
 Central African Republic,
 Gabon,
 Burkina Faso,
-Mali
+Mali,
+Djibouti
