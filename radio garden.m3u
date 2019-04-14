@@ -47,3 +47,27 @@ http://ample-zeno-25.radiojar.com/445tct5avewtv?listening-from-radio-garden=1554
 
 #EXTINF:-1 group-name="Djibouti",Monte Carlo Doualiya FM 97.2 (Djibouti City)
 http://live02.mc-doualiya.com/mc-doualiya.mp3?listening-from-radio-garden=1554840323682
+
+#EXTINF:-1 group-name="Kiribati",Kiribati Radio Live (Tarawa)
+http://streamer3.rightclickitservices.com:9790/stream?listening-from-radio-garden=1555203276330
+
+#EXTINF:-1 group-name="Micronesia (Fed. States)",Bible Baptist Radio Chuuk 88.5 FM (Weno)
+http://stereo.wavestreamer.com:7363/1/?listening-from-radio-garden=1555203428361
+
+#EXTINF:-1 group-name="USA (GU)",KSDA 91.9 FM (Agat)
+http://thassos.cdnstream.com:5281/live?listening-from-radio-garden=1555203471469
+
+#EXTINF:-1 group-name="USA (GU)",KPRG-FM 89.3 FM (Hagatna)
+http://peridot.streamguys.com:5090/live?listening-from-radio-garden=1555203511139
+
+#EXTINF:-1 group-name="USA (GU)",KUAM-AM Isla 63 (Hagatna)
+http://www.ophanim.net:9010/stream?listening-from-radio-garden=1555203576325
+
+#EXTINF:-1 group-name="Tonga",Radio Tonga (Nuku'alofa)
+http://tbcletio.serverroom.us:8142/;?listening-from-radio-garden=1555203631178
+
+#EXTINF:-1 group-name="Andorra",Ràdio Valira (Encamp)
+http://91.187.93.115:8020/;?listening-from-radio-garden=1555203777809
+
+#EXTINF:-1 group-name="Andorra",Paranoia Metal Station (Ordino)
+http://giss.tv:8001/paranoiashow.mp3?listening-from-radio-garden=1555203875604
