@@ -27,3 +27,23 @@ Micronesia (Fed. States)
 Kiribati
 
 Tonga
+
+Papua New Guinea
+
+Cayman Is. (UK)
+
+Haiti
+
+Guyana
+
+Suriname
+
+French Guiana
+
+Guinea (Bissau)
+
+Guinea (Conakry)
+
+Congo (Kinshasa)
+
+Congo (Brazzaville)
