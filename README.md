@@ -47,3 +47,13 @@ Guinea (Conakry)
 Congo (Kinshasa)
 
 Congo (Brazzaville)
+
+Kuwait
+
+Iran
+
+Bermuda (UK)
+
+Jamaica
+
+China
