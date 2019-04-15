@@ -258,6 +258,72 @@ http://ca.rcast.net:8014/;?listening-from-radio-garden=1555271961462
 #EXTINF:-1 group-name="Congo (Kinshasa)",Radio Maria RDC (Kinshasa)
 http://dreamsiteradiocp.com:8116/;?listening-from-radio-garden=1555271999226
 
+#EXTINF:-1 group-name="Kuwait",Best On Top Radio (Mangaf)
+http://95.154.254.129:29710/;?listening-from-radio-garden=1555328148551
+
+#EXTINF:-1 group-name="Kuwait",Marina FM 90.4 (Salmiya)
+http://31.14.40.102:8006/MarinaFM%2090.4.mp3?listening-from-radio-garden=1555328179056
+
+#EXTINF:-1 group-name="Kuwait",FM 88.8 (Kuwait City)
+http://162.244.80.118:3020/stream.mp3?listening-from-radio-garden=1555328216451
+
+#EXTINF:-1 group-name="Kuwait",Quran Radio (Al Jahra)
+http://s2.voscast.com:12312/;?listening-from-radio-garden=1555328238402
+
+#EXTINF:-1 group-name="Iran",Radio Moshta (Sarzeh)
+http://46.4.147.236:9984/;?listening-from-radio-garden=1555328292882
+
+#EXTINF:-1 group-name="Iran",Radio 6o8 (Tehran)
+http://radio6o8.com:8000/stream?listening-from-radio-garden=1555328328100
+
+#EXTINF:-1 group-name="Iran",Radio Mahoor (Tehran)
+http://38.99.146.102:8000/mahoor.mp3?listening-from-radio-garden=1555328368772
+
+#EXTINF:-1 group-name="Iran",رادیو رنگین کمان Rainbow RanginKaman (Tehran)
+https://s2.radio.co/sccac9b205/listen?listening-from-radio-garden=1555328392176
+
+#EXTINF:-1 group-name="Iran",Radio Damash (Rasht)
+http://station.radiodamash.ir:8000/live?listening-from-radio-garden=1555328443945
+
+#EXTINF:-1 group-name="China",LamRim Tibetan Buddhist Internet Radio (Lhasa)
+http://199.180.72.2:9097/lamrim?listening-from-radio-garden=1555328538035
+
+#EXTINF:-1 group-name="China",Shirley & Spinoza Radio (Dali)
+https://s2.radio.co/sec5fa6199/listen?listening-from-radio-garden=1555328592458
+
+#EXTINF:-1 group-name="China",Radio Guangdong (Guangdong)
+http://ctt.rgd.com.cn/fm914?listening-from-radio-garden=1555328634482
+
+#EXTINF:-1 group-name="China",广东广播 FM 99.3 (Guangdong)
+http://ctt.rgd.com.cn/fm993?listening-from-radio-garden=1555328658778
+
+#EXTINF:-1 group-name="United Kingdom (Bermuda)",Hott 107.5 FM (Hamilton)
+http://icy2.abacast.com/interislandcom-alachuatemplelive-128?listening-from-radio-garden=1555328750949
+
+#EXTINF:-1 group-name="United Kingdom (Bermuda)",Magic 102.7 FM (Hamilton)
+http://icy3.abacast.com/interislandcom-wmjfmaac-64?listening-from-radio-garden=1555328817333
+
+#EXTINF:-1 group-name="Jamaica",Mello FM 88 (Montego Bay)
+http://peridot.streamguys.com:5660/live?listening-from-radio-garden=1555328860409
+
+#EXTINF:-1 group-name="Jamaica",Suncity Radio 104.9 FM (Portmore)
+http://streams.suncityradio.fm:8000/;?listening-from-radio-garden=1555328891107
+
+#EXTINF:-1 group-name="Jamaica",Blitz Radio 2000 (Kingston)
+http://usa12.fastcast4u.com:5080/;?listening-from-radio-garden=1555328914914
+
+#EXTINF:-1 group-name="Jamaica",Gospel FM (Kingston)
+http://ample-zeno-06.radiojar.com/uqhtg9u0aceuv?listening-from-radio-garden=1555328946544&rj-token=AAABaiDdemy7UoV0hQ0WYeA_hJVG9WZhBOIzR9c_53PSoj25DRRybg&rj-ttl=5
+
+#EXTINF:-1 group-name="Jamaica",Kool 97 FM (Kingston)
+http://208.163.43.44:8000/stream.mp3?listening-from-radio-garden=1555328969191
+
+#EXTINF:-1 group-name="Jamaica",Revive Us Radio (Kingston)
+http://108.178.14.74/;?listening-from-radio-garden=1555328986784
+
+#EXTINF:-1 group-name="Jamaica",UFDV Airways (Kingston)
+http://76.164.217.100:7059/stream?listening-from-radio-garden=1555329010936
+
 
 
 
