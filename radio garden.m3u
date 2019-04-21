@@ -360,6 +360,99 @@ http://radios.vpn.sapo.pt/AO/radio4.mp3?listening-from-radio-garden=155586313485
 #EXTINF:-1 group-name="Angola",RNA Canal A (Luanda)
 http://radios.vpn.sapo.pt/AO/radio3.mp3?listening-from-radio-garden=1555863171252
 
+#EXTINF:-1 group-name="Zambia",Hot FM (Lusaka)
+http://s2.yesstreaming.net:7091/stream?listening-from-radio-garden=1555863411389
+
+#EXTINF:-1 group-name="Zambia",Lusaka Music Radio (Lusaka)
+http://64.95.243.43:8035/;?listening-from-radio-garden=1555863429847
+
+#EXTINF:-1 group-name="Zambia",Money FM Zambia (Lusaka)
+http://s26.myradiostream.com:18162/listen.mp3?listening-from-radio-garden=1555863442073
+
+#EXTINF:-1 group-name="Zambia",Nyumba Yanga Radio (Lusaka)
+http://nyumbayangaradio.out.airtime.pro:8000/nyumbayangaradio_a?listening-from-radio-garden=1555863473268
+
+#EXTINF:-1 group-name="Zambia",One Love Radio (Lusaka)
+https://usa11.fastcast4u.com/proxy/thidhzuy?mp=/1&listening-from-radio-garden=1555863497898
+
+#EXTINF:-1 group-name="Zambia",Radio 1 (Lusaka)
+http://eu6.fastcast4u.com:5046/;?listening-from-radio-garden=1555863528763
+
+#EXTINF:-1 group-name="Zambia",Radio 2 (Lusaka)
+http://eu6.fastcast4u.com:5179/;?listening-from-radio-garden=1555863556449
+
+#EXTINF:-1 group-name="Zambia",Radio 4 (Lusaka)
+http://eu6.fastcast4u.com:5183/;?listening-from-radio-garden=1555863589147
+
+#EXTINF:-1 group-name="Zambia",FLAVA FM (Kitwe)
+http://s2.voscast.com:9304/;?listening-from-radio-garden=1555863603992
+
+#EXTINF:-1 group-name="Zambia",Chikuni Radio (Monze)
+http://centauri.shoutca.st:8102/live?listening-from-radio-garden=1555863626676
+
+#EXTINF:-1 group-name="Zimbabwe",Heart & Soul Broadcasting (Harare)
+http://185.105.4.53:7950/stream?listening-from-radio-garden=1555863649799
+
+#EXTINF:-1 group-name="Zimbabwe",Nehanda Radio (Harare)
+https://eu4.fastcast4u.com/proxy/lancguma?mp=/1&listening-from-radio-garden=1555863679203
+
+#EXTINF:-1 group-name="Zimbabwe",Star FM (Harare)
+http://albert.antfarm.co.za:8000/StarFM?listening-from-radio-garden=1555863693924
+
+#EXTINF:-1 group-name="Zimbabwe",Diamond FM Zimbabwe (Mutare)
+http://51.255.235.165:5080/stream?listening-from-radio-garden=1555863714656
+
+#EXTINF:-1 group-name="Zimbabwe",Radio Bukalanga (Plumtree)
+http://s6.voscast.com:10394/;?listening-from-radio-garden=1555863751088
+
+#EXTINF:-1 group-name="Botswana",Duma FM 93.0 (Gaborone)
+http://50.7.99.163:16170/stream?listening-from-radio-garden=1555863825129
+
+#EXTINF:-1 group-name="Botswana",Radio Botswana 2 103.0 FM (Gaborone)
+http://168.167.134.26:8000/rb2?listening-from-radio-garden=1555863869068
+
+#EXTINF:-1 group-name="Botswana",Yarona FM (Gaborone)
+http://capeant.antfarm.co.za:8000/yarona?listening-from-radio-garden=1555863899628
+
+#EXTINF:-1 group-nae="Madagascar",Radio RNA Antalaha Madagascar (Antalaha)
+http://drs-live-rna.gasy-internet.info:9001/stream?listening-from-radio-garden=1555863918251
+
+#EXTINF:-1 group-name="Madagascar",Alliance 92 (Antananarivo)
+http://41.188.43.211:8000/alliance92.mp3?listening-from-radio-garden=1555863968939
+
+#EXTINF:-1 group-name="Madagascar",Radio Don Bosco (Antananarivo)
+http://onair15.xdevel.com:9248/;stream.mp3?listening-from-radio-garden=1555863990754
+
+#EXTINF:-1 group-name="Madagascar",Radio Fahazavana (Antananarivo)
+https://listen.radioking.com/radio/3657/stream/11144?listening-from-radio-garden=1555864040052
+
+#EXTINF:-1 group-name="Madagascar",Radio Vaovao Mahasoa FM 106.8 (Antananarivo)
+http://91.121.148.49:7777/;?listening-from-radio-garden=1555864089057
+
+#EXTINF:-1 group-name="Madagascar",RDJ 96.6 FM (Antananarivo)
+http://rdj966.net:8000/rdj966.mp3?listening-from-radio-garden=1555864122776
+
+#EXTINF:-1 group-name="Madagascar",Taratra FM (Antananarivo)
+http://41.188.43.211:8000/taratraradio.mp3?listening-from-radio-garden=1555864138652
+
+#EXTINF:-1 group-name="Mozambique",Antena Nacional (Maputo)
+http://41.76.149.162:8000/;?listening-from-radio-garden=1555864244349
+
+#EXTINF:-1 group-name="Mozambique",LM Radio FM 87.8 (Maputo)
+http://50.7.99.155:12055/stream?listening-from-radio-garden=1555864269528
+
+#EXTINF:-1 group-name="Mozambique",Radio Mais FM 94.1
+http://87.117.208.118:33013/;stream.mp3?listening-from-radio-garden=1555864314445
+
+#EXTINF:-1 group-name="Mozambique",Radio Maria Mozambique (Maputo)
+http://dreamsiteradiocp2.com:8088/;?listening-from-radio-garden=1555864338445
+
+#EXTINF:-1 group-name="Mozambique",Rádio Moçambique FM 97.9 (Maputo)
+http://41.76.149.162:8000/;?listening-from-radio-garden=1555864358616
+
+#EXTINF:-1 group-name="Mozambique",RM Emissor Provincial de Gaza (Xai Xai))
+http://41.76.149.162:8000/;?listening-from-radio-garden=1555864408583
+
 
 
 
