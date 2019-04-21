@@ -324,6 +324,41 @@ http://108.178.14.74/;?listening-from-radio-garden=1555328986784
 #EXTINF:-1 group-name="Jamaica",UFDV Airways (Kingston)
 http://76.164.217.100:7059/stream?listening-from-radio-garden=1555329010936
 
+#EXTINF:-1 group-name="Namibia",EFM Radio Namibia (Windhoek)
+http://s2.stationplaylist.com:7026/listen.aac?listening-from-radio-garden=1555862741441
+
+#EXTINF:-1 group-name="Namibia",Hitradio Namibia (Windhoek)
+http://85.25.217.22:8000/hitradio-namibia.mp3?listening-from-radio-garden=1555862790104
+
+#EXTINF:-1 group-name="Namibia",Kanaal 7 - Channel 7 Namibia (Windhoek)
+http://85.25.164.52/;?listening-from-radio-garden=1555862822443
+
+#EXTINF:-1 group-name="Namibia",West Coast FM (Swakopmund)
+http://s4.myradiostream.com:7648/;?listening-from-radio-garden=1555862843512
+
+#EXTINF:-1 group-name="Namibia",Hitradio Namibia (Walvis Bay)
+http://85.25.217.22:8000/hitradio-namibia.mp3?listening-from-radio-garden=1555862887385
+
+#EXTINF:-1 group-name="Angola",Luanda Antena Comercial (Luanda)
+http://radios.vpn.sapo.pt/AO/radio14.mp3?listening-from-radio-garden=1555862909628
+
+#EXTINF:-1 group-name="Angola",Rádio 5 (Luanda)
+http://radios.vpn.sapo.pt/AO/radio5.mp3?listening-from-radio-garden=1555862945807
+
+#EXTINF:-1 group-name="Angola",Rádio FM Stéreo (Luanda)
+http://radios.vpn.sapo.pt/AO/radio7.mp3?listening-from-radio-garden=1555863041459
+
+#EXTINF:-1 group-name="Angola",Rádio Luanda (Luanda)
+http://radios.vpn.sapo.pt/AO/radio11.mp3?listening-from-radio-garden=1555863062571
+
+#EXTINF:-1 group-name="Angola",Rádio Mais (Luanda)
+http://radios.vpn.sapo.pt/AO/radio10.mp3?listening-from-radio-garden=1555863124172
+
+#EXTINF:-1 group-name="Angola",Radio Romantica (Luanda)
+http://radios.vpn.sapo.pt/AO/radio4.mp3?listening-from-radio-garden=1555863134859
+
+#EXTINF:-1 group-name="Angola",RNA Canal A (Luanda)
+http://radios.vpn.sapo.pt/AO/radio3.mp3?listening-from-radio-garden=1555863171252
 
 
 
