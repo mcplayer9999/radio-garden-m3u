@@ -57,3 +57,15 @@ Bermuda (UK)
 Jamaica
 
 China
+
+Namibia
+
+Angola
+
+Botswana
+
+Zambia
+
+Zimbabwe
+
+Madagascar
