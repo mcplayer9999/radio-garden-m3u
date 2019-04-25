@@ -594,6 +594,86 @@ http://ample-zeno-20.radiojar.com/2rhc424mb?listening-from-radio-garden=15558702
 #EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/04/88/0488d0942b5a809d00b8cfb21ecc98ce.jpg" group-title="Togo",Radio Maria Togo FM 97.9 (Lomé)
 http://dreamsiteradiocp2.com:8050/;?listening-from-radio-garden=1555870288119
 
+#EXTINF:-1 radio="true" tvg-logo="http://www.knkl.net/vendor/og-image.jpg" group-name="USA (SD)",KNKL (Sturgis)
+http://us4.internet-radio.com:8223/stream?listening-from-radio-garden=1556233123188
+
+#EXTINF:-1 radio="true" tvg-logo="http://hot931.com/images/logo.png" group-name="USA (SD)",Hot 93.1 FM (Rapid City)
+http://24.111.1.163:8000/KRCS?listening-from-radio-garden=1556233218693
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.sdsmt.edu/uploadedImages/Content/Campus_Services/brKTEQ.jpg" group-name="USA (SD)",KTEQ 91.3 FM (Rapid City)
+http://151.159.49.99:8000/play?listening-from-radio-garden=1556233244343
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/KKMK.jpeg" group-name="USA (SD)",Mix 93.9 KKMK (Rapid City)
+http://24.111.1.163:8000/KKMK?listening-from-radio-garden=1556233271049
+
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s43770/images/bannerx.jpg?t=636698674879700000" group-name="USA (SD)",KQRQ 92.3 FM (Rapid City)
+http://crystalout.surfernetwork.com:8001/KQRQ-FM_MP3?listening-from-radio-garden=1556233292259
+
+#EXTINF:-1 radio="true" tvg-logo="https://dakotawire.files.wordpress.com/2018/04/star-106-3.jpg?w=640" group-name="USA (SD)",KZLK 106.3 FM (Rapid City)
+http://crystalout.surfernetwork.com:8001/KZLK-FM_MP3?listening-from-radio-garden=1556233326872
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/TrueCountry995.png" group-name="USA (SD)",KRKI 95.5 FM (Keystone)
+http://streaming.radiowyo.com:1010/KRKI?listening-from-radio-garden=1556233342243
+
+#EXTINF:-1 radio="true" tvg-logo="https://static.radio.net/images/broadcasts/80/02/25871/c175.png" group-name="USA (SD)",Coyote Radio KAOR 91.1 FM (Vermillion)
+http://janus.cdnstream.com:5314/stream?listening-from-radio-garden=1556233371855
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/KTIS_AM_900_Faith_Radio.gif" group-name="USA (SD)",Faith 1270 KTIS-AM (Sioux Falls)
+http://nwmedia-ktisam.streamguys1.com/ktis-am?listening-from-radio-garden=1556233422401
+
+#EXTINF:-1 radio="true" tvg-logo="https://broadcaster.live365.com/art/7815b8a5-57ad-43b5-bdd7-50c9695a496e.png" group-name="USA (SD)",KBACK (Sioux Falls)
+http://edge3.peta.live365.net/b42133_128mp3?listening-from-radio-garden=1556233461504
+
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s34395d.png" group-name="USA (SD)",Life 96.5 KNWC-FM (Sioux Falls)
+http://nwmedia-knwcfm.streamguys1.com/knwc-fm?listening-from-radio-garden=1556233485044
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2017/10/KXLG-99.1.jpg" group-name="USA (SD)",KXLG 99.1 FM (Milbank)
+http://crystalout.surfernetwork.com:8001/KXLG-FM_MP3?listening-from-radio-garden=1556233508026
+
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s140823d.png" group-name="USA (SD)",KXSW 89.9 FM (Sisseton)
+http://1.ice1.firststreaming.com:8000/kxsw_fm.aac?listening-from-radio-garden=1556233537507
+
+#EXTINF:-1 radio="true" tvg-logo="https://static.radio.net/images/broadcasts/da/73/101369/1/c300.png" group-name="USA (ND)",Radio Bakwas (Belfield)
+http://ample-zeno-13.radiojar.com/cf38sy5cqz4tv?listening-from-radio-garden=1556233649391&rj-token=AAABalbKJegnYsbjGsHTe19JjLvpqZys8E7-VvzEFJqAIqh5y3AUcA&rj-ttl=5
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets/images/1661.png?ops=fit(240%2C240)%2Cformat(%22png%22)" group-name="USA (ND)",KFYR Radio 99.7 (Bismarck)
+https://c13icy.prod.playlists.ihrhls.com/1661_icy?listening-from-radio-garden=1556233688620
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/KSJB_logo.png" group-name="USA (ND)",KSJB Classic Country (Jamestown)
+http://crystalout.surfernetwork.com:8001/KSJB_MP3?listening-from-radio-garden=1556233726907
+
+#EXTINF:-1 radio="true" tvg-logo="https://media.socastsrm.com/uploads/station/1756/site_header_logo-5ba3ed3e53c4b.jpg" group-name="USA (ND)",KSJZ Mix 93.3 FM (Jamestown)
+http://crystalout.surfernetwork.com:8001/KSJZ-FM_MP3?listening-from-radio-garden=1556233757920
+
+#EXTINF:-1 radio="true" tvg-logo="https://kfgo.com/static/brands/kfgo/touch-icon.543c9f7ccce9.png" group-name='USA (ND)",KFGO The Mighty 790 AM (Fargo)
+http://15363.live.streamtheworld.com/KFGOAMAAC.aac?listening-from-radio-garden=1556233775021
+
+#EXTINF:-1 radio="true" tvg-logo="https://kfgo.com/static/brands/kfgo/touch-icon.543c9f7ccce9.png" group-name='USA (ND)",KFGO-AM (possibly duplicate) (Fargo)
+http://15363.live.streamtheworld.com/KFGOAM.mp3?listening-from-radio-garden=1556233814171
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.radiofreeamerica.com/CMSPages/GetAvatar.aspx?avatarguid=3b4dcde7-b094-42fa-a4b7-d2f7250a81d3&maxsidesize=400" group-name='USA (ND)",KRFF-LP (Fargo)
+http://144.217.203.226:8166/live;?listening-from-radio-garden=1556233818111
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3d/1019jackfmfargo.jpeg" group-name='USA (ND)",KRWK-FM (Fargo)
+http://18583.live.streamtheworld.com/KRWKFM.mp3?listening-from-radio-garden=1556233853315
+
+#EXTINF:-1 radio="true" tvg-logo="https://740thefan.com/static/brands/knfl/footer-logo.5946c7f03593.png" group-name='USA (ND)",KVOX-AM (Fargo)
+http://17793.live.streamtheworld.com/KVOXAM.mp3?listening-from-radio-garden=1556233867595
+
+#EXTINF:-1 radio="true" tvg-logo="https://740thefan.com/static/brands/knfl/footer-logo.5946c7f03593.png" group-name='USA (ND)",KVOX-FM (Fargo)
+http://17943.live.streamtheworld.com/KVOXFM.mp3?listening-from-radio-garden=1556233882512
+
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/78/77/7877dd3ded5a659961679a5c55745561.jpg" group-name='USA (ND)",Life 97.9 KFNW (Fargo)
+http://nwmedia-kfnwfm.streamguys1.com/kfnw-fm?listening-from-radio-garden=1556233901100
+
+#EXTINF:-1 radio="true" tvg-logo="http://d31wsou9chh9ss.cloudfront.net/0/mobile/images/1424877954/5789/300/200/PlayerLogo.jpg" group-name="USA (ND)",KNOX News Radio (Grand Forks)
+http://icy1.abacast.com/leighton-knoxamaac-64?listening-from-radio-garden=1556233925169
+
+#EXTINF:-1 radio="true" tvg-logo="https://yourcatholicradiostation.com/sites/default/files/styles/header_slideshow/public/uploads/images/jan_2019_map_webslide.jpg?itok=Hmz_s5v8" group-name="USA (ND)",Real Presence Radio (Grand Forks)
+https://realpresence.stream.miriamtech.net:13701/kjrc?listening-from-radio-garden=1556233921723
+
+
+
 
 
 
