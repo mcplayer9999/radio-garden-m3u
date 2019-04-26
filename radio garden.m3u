@@ -672,6 +672,48 @@ http://icy1.abacast.com/leighton-knoxamaac-64?listening-from-radio-garden=155623
 #EXTINF:-1 radio="true" tvg-logo="https://yourcatholicradiostation.com/sites/default/files/styles/header_slideshow/public/uploads/images/jan_2019_map_webslide.jpg?itok=Hmz_s5v8" group-name="USA (ND)",Real Presence Radio (Grand Forks)
 https://realpresence.stream.miriamtech.net:13701/kjrc?listening-from-radio-garden=1556233921723
 
+#EXTINF:-1 radio="true" group-title="United States (NE)",KNEB 960 AM (Scottsbluff)
+http://ais-sa1.streamon.fm/7325_48k.aac?starttime=1460707252
+
+#EXTINF:-1 radio="true" group-title="United States (NE)",River 93.1 KRVN (Lexington)
+http://ais-sa1.streamon.fm/7245_48k.aac
+
+#EXTINF:-1 radio="true" group-title="United States (NE)",KZUM Lincoln (Lincoln)
+http://us1.internet-radio.com:8628/;?listening-from-radio-garden=1556320363612
+
+#EXTINF:-1 radio="true" group-title="United States (NE)",My Bridge Radio (Lincoln)
+http://ais-sa1.streamon.fm/7069_64k.aac
+
+#EXTINF:-1 radio="true" group-title="United States (NE)",NET Radio KUCV (Lincoln)
+http://14933.live.streamtheworld.com/KUCVFM_SC?listening-from-radio-garden=1556320548412
+
+#EXTINF:-1 radio="true" group-title="United States (NE)",Air 1 Radio (Omaha)
+http://emf.streamguys1.com/sa001_mp3_high_web?listening-from-radio-garden=1556320640401
+
+#EXTINF:-1 radio="true" group-title="United States (NE)",KFAM 1110 AM (Omaha)
+http://c3icy.prod.playlists.ihrhls.com/1325_icy?listening-from-radio-garden=1556320680824
+
+#EXTINF:-1 radio="true" group-title="United States (NE)",KGOR 99.9 FM (Omaha)
+http://c8icy.prod.playlists.ihrhls.com/3344_icy?listening-from-radio-garden=1556320775001
+
+#EXTINF:-1 radio="true" group-title="United States (NE)",KISO 96.1 FM (Omaha)
+http://c3icy.prod.playlists.ihrhls.com/1333_icy?listening-from-radio-garden=1556320805236
+
+#EXTINF:-1 radio="true" group-title="United States (NE)",KSRZ 104.5 FM (Omaha)
+http://17793.live.streamtheworld.com/KSRZFMAAC_SC?listening-from-radio-garden=1556320850644
+
+#EXTINF:-1 radio="true" group-title="United States (NE)",840 Rural Radio (West Point)
+http://ais-sa1.streamon.fm/7282_48k.aac
+
+#EXTINF:-1 radio="true" group-title="United States (NE)",91.9 The Cat KWSC (Wayne)
+http://icecast.wsc.edu:8000/thecat?listening-from-radio-garden=1556320911496
+
+#EXTINF:-1 radio="true" group-title="United States (NE)",News Channel Nebraska 94.7 (Norfolk)
+http://18743.live.streamtheworld.com/KNENFMAAC.aac?listening-from-radio-garden=1556320960067
+
+#EXTINF:-1 radio="true" group-title="United States (NE)",Zideral Radio Web (St. Bernard)
+http://176.31.241.17:7100/;?listening-from-radio-garden=1556321020221
+
 
 
 
