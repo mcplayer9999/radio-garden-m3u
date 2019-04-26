@@ -81,3 +81,9 @@ Togo
 North Dakota (USA)
 
 South Dakota (USA)
+
+Nebraska (USA) (no logos yet)
+
+Kansas (USA) (next commit)
+
+Oklahoma (USA) (hopefully next commit, if not then the commit after)
