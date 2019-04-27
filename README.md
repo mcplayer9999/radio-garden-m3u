@@ -82,8 +82,8 @@ North Dakota (USA)
 
 South Dakota (USA)
 
-Nebraska (USA) (no logos yet)
+Nebraska (USA)
 
-Kansas (USA) (no logos yet)
+Kansas (USA)
 
-Oklahoma (USA) (no logos yet)
+Oklahoma (USA)
