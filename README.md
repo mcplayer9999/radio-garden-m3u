@@ -84,6 +84,6 @@ South Dakota (USA)
 
 Nebraska (USA) (no logos yet)
 
-Kansas (USA) (next commit)
+Kansas (USA) (no logos yet)
 
 Oklahoma (USA) (no logos yet)
