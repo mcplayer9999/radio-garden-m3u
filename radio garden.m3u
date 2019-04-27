@@ -714,6 +714,95 @@ http://18743.live.streamtheworld.com/KNENFMAAC.aac?listening-from-radio-garden=1
 #EXTINF:-1 radio="true" group-title="United States (NE)",Zideral Radio Web (St. Bernard)
 http://176.31.241.17:7100/;?listening-from-radio-garden=1556321020221
 
+#EXTINF:-1 radio="true" group-title="United States (OK)",K101 KWOX (Woodward)
+http://icy3.abacast.com/omnimedia-kwoxfmaac-64?listening-from-radio-garden=1556367322073
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",Z92 KMZE (Woodward)
+http://icy3.abacast.com/omnimedia-kmzefmaac-64?listening-from-radio-garden=1556367426715
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",96.5 KECO (Elk City)
+http://173.193.205.96:8286/;?listening-from-radio-garden=1556367468618
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",91.1 KJRF-FM (Lawton)
+http://s9.viastreaming.net:9510/;?listening-from-radio-garden=1556367503359
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",Magic 95 KMGZ (Lawton)
+http://199.180.75.2:9099/stream?listening-from-radio-garden=1556367592505
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",97.7 KICM (Healdton)
+http://crystalout.surfernetwork.com:8001/KICM_MP3?listening-from-radio-garden=1556367629388
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",Mix 96.1 KZRC (Durant)
+http://crystalout.surfernetwork.com:8001/KZRC-FM_MP3?listening-from-radio-garden=1556367688891
+
+#EXTINF:-1 radio="true" group-title="United States (OK),95.3 KBBN-FM (Broken Bow)
+http://crystalout.surfernetwork.com:8001/KBBN_MP3?listening-from-radio-garden=1556367768435
+
+#EXTINF:-1 radio="true" group-title="United States (OK),KCNI 1280 AM (Broken Bow)
+http://crystalout.surfernetwork.com:8001/KCNI-AM_MP3?listening-from-radio-garden=1556367828088
+
+#EXTINF:-1 radio="true" group-title="United States (OK),KXFC The X Factor (Coalgate)
+http://crystalout.surfernetwork.com:8001/KXFC-FM_MP3?listening-from-radio-garden=1556367876143
+
+#EXTINF:-1 radio="true" group-title="United States (OK),KADA-FM Cool 99.3 (Ada)
+http://crystalout.surfernetwork.com:8001/KADA_MP3?listening-from-radio-garden=1556367931057
+
+#EXTINF:-1 radio="true" group-title="United States (OK),The Hubb Internet Radio (Crowder)
+http://hemnos.cdnstream.com/1496_96?listening-from-radio-garden=1556367978268
+
+#EXTINF:-1 radio="true" group-title="United States (OK),KJMM K-Jamz 105.3 (Bixby)
+http://crystalout.surfernetwork.com:8001/KJMM_MP3?listening-from-radio-garden=1556368013982
+
+#EXTINF:-1 radio="true" group-title="United States (OK),News 102.3 FM KRMG (Tulsa)
+http://oom-cmg.streamguys1.com/tul1023/tul1023-sgplayer-aac?listening-from-radio-garden=1556368048419
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",89.5 KWGS-HD1 Public Radio (Tulsa)
+http://17993.live.streamtheworld.com/KWGSFMAAC.aac?listening-from-radio-garden=1556368085618
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",KRVT (Claremore)
+http://www.ophanim.net:7370/;?listening-from-radio-garden=1556368130492
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",KRSC 91.3 FM RSU Radio (Claremore)
+http://www.rsukrscfm.rsu.edu:8000/rsuradio128k?listening-from-radio-garden=1556368159351
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",KWON NewsTalk (Bartlesville)
+http://crystalout.surfernetwork.com:8001/KWON-AM_MP3?listening-from-radio-garden=1556368194983
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",KJTH The House FM (Ponca City)
+http://klvv-thehouse.streamguys.us/TheHouse64kAAC?listening-from-radio-garden=1556368245120
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",KOSU-FM (Stillwater)
+http://16113.live.streamtheworld.com/KOSUFM_NEWS.mp3?listening-from-radio-garden=1556368301331
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",KUCO-FM 90.1 (Edmond)
+http://kuco.streamguys1.com/live?listening-from-radio-garden=1556368331961
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",KRXO 107.7 The Franchise (Oklahoma City)
+http://16693.live.streamtheworld.com/KRXOFMAAC.aac?listening-from-radio-garden=1556368381991
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",KOMA-FM 92.5 (Oklahoma City)
+http://18443.live.streamtheworld.com/KOMAFMAAC.aac?listening-from-radio-garden=1556368421340
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",KRMP Heart & Soul 92.1/1140 (Oklahoma City)
+http://crystalin.surfernetwork.com:8000/KRMP_MP3?listening-from-radio-garden=1556368448191
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",Jake FM 93.3 (Oklahoma City)
+http://14983.live.streamtheworld.com/KJKEFMAAC.aac?listening-from-radio-garden=1556368490916
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",LuvHouse Radio (Oklahoma City)
+https://s2.radio.co/s45d7b7194/listen?listening-from-radio-garden=1556368510301
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",KGOU 106.3 (Norman)
+http://16113.live.streamtheworld.com/KGOUFMAAC?listening-from-radio-garden=1556368548565
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",KOUA (Norman)
+http://17993.live.streamtheworld.com/KGOUFMAAC.aac?listening-from-radio-garden=1556368581848
+
+#EXTINF:-1 radio="true" group-title="United States (OK)",KZUE (El Reno)
+http://s4.viastreaming.net:9010/;?listening-from-radio-garden=1556368623936
+
+
+
 
 
 
