@@ -801,6 +801,54 @@ http://17993.live.streamtheworld.com/KGOUFMAAC.aac?listening-from-radio-garden=1
 #EXTINF:-1 radio="true" group-title="United States (OK)",KZUE (El Reno)
 http://s4.viastreaming.net:9010/;?listening-from-radio-garden=1556368623936
 
+#EXTINF:-1 radio="true" group-title="United States (KS)",KSTM TheRiver (Arkansas City)
+http://87.98.216.129:12292/;?listening-from-radio-garden=1556368997974
+
+#EXTINF:-1 radio="true" group-title="United States (KS)",Avivamiento Radio (Independence)
+http://158.69.227.214:8076/stream?listening-from-radio-garden=1556369027987
+
+#EXTINF:-1 radio="true" group-title="United States (KS)",KIOL 1370 AM (Iola)
+http://173.193.205.96:8124/;?listening-from-radio-garden=1556369055089
+
+#EXTINF:-1 radio="true" group-title="United States (KS)",102.5 JACK fm (Mission)
+http://18393.live.streamtheworld.com/KCMOH2AAC.aac?listening-from-radio-garden=1556369099645
+
+#EXTINF:-1 radio="true" group-title="United States (KS)",101 The Fox KCFX (Mission)
+https://18803.live.streamtheworld.com/KCFXFMAAC.aac?listening-from-radio-garden=1556369140984
+
+#EXTINF:-1 radio="true" group-title="United States (KS)",Kansas Public Radio (KPR1) (Lawrence)
+https://streaming.kansaspublicradio.org:8001/kpr1?listening-from-radio-garden=1556369190588
+
+#EXTINF:-1 radio="true" group-title="United States (KS)",Kansas Public Radio (KPR2) (Lawrence)
+https://streaming.kansaspublicradio.org:8001/kpr2?listening-from-radio-garden=1556369231684
+
+#EXTINF:-1 radio="true" group-title="United States (KS)",KJHK 90.7 FM (Lawrence)
+http://kjhkstream.org:8000/stream_high?listening-from-radio-garden=1556369251537
+
+#EXTINF:-1 radio="true" group-title="United States (KS)",KU Audio Reader (Lawrence)
+http://streaming.kansaspublicradio.org:8000/audioreader?listening-from-radio-garden=1556369281464
+
+#EXTINF:-1 radio="true" group-title="United States (KS)",KSWZ-LP (St. George)
+https://slave.irdb.network/kswzlp.mp3?listening-from-radio-garden=1556369323628
+
+#EXTINF:-1 radio="true" group-title="United States (KS)",KBCU 88.1 FM (North Newton)
+http://kbcu-live.bethelks.edu:8000/stream?listening-from-radio-garden=1556369353756
+
+#EXTINF:-1 radio="true" group-title="United States (KS)",KMUW (Wichita)
+http://kmuw-streamer.wichita.edu:8000/kmuw?listening-from-radio-garden=1556369390933
+
+#EXTINF:-1 radio="true" group-title="United States (KS)",T-95 KICT-FM (Wichita)
+https://14133.live.streamtheworld.com/KICTFMAAC.aac?listening-from-radio-garden=1556369435183
+
+#EXTINF:-1 radio="true" group-title="United States (KS)",102 The Cue (Ellinwood)
+http://ample-08.radiojar.com/eg2uhdczg54tv?listening-from-radio-garden=1556369461388&rj-token=AAABal7ieTv7JbyU5sfs-PjVZW3BsBHdMpXL7jGRtVuMMMqzgClIBA&rj-ttl=5
+
+#EXTINF:-1 radio="true" group-title="United States (KS)",NewsRadio 1150 KSAL-AM (Salina)
+http://162.244.80.222:8780/stream?listening-from-radio-garden=1556369522337
+
+#EXTINF:-1 radio="true" group-title="United States (KS)",Y 93.7 KYEZ (Salina)
+http://162.244.80.222:4086/stream?listening-from-radio-garden=1556369578142
+
 
 
 
