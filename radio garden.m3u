@@ -15,6 +15,9 @@ http://crystalout.surfernetwork.com:8001/WSKP-AM_MP3?listening-from-radio-garden
 #EXTINF:-1 radio="true" tvg-logo="http://images.tritondigitalcms.com/6616/sites/7/2018/08/07105838/WPRV-square.jpg" group-title="USA (RI)",WPRV-AM 790 (Providence)
 http://14223.live.streamtheworld.com/WPRVAMAAC_SC?listening-from-radio-garden=1554821478696
 
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/WPRO_Providence_New_Logo.jpg/220px-WPRO_Providence_New_Logo.jpg" group-title="USA (RI)",WPRO/WEAN News Talk 630 AM/99.7 FM (Providence)
+http://19303.live.streamtheworld.com/WPROAMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=d685c6f5-131d-4c03-981f-17d32622af0e
+
 #EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/WWLI.png" group-title="USA (RI)",WWLI-FM Lite Rock 105 (Providence)
 https://17413.live.streamtheworld.com/WWLIFMAAC_SC?listening-from-radio-garden=1554821578976
 
