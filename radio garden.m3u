@@ -852,6 +852,33 @@ http://162.244.80.222:8780/stream?listening-from-radio-garden=1556369522337
 #EXTINF:-1 radio="true" tvg-logo="https://www.ijunoon.com/sw-store/images/dictionary/KYEZ.jpg" group-title="United States (KS)",Y 93.7 KYEZ (Salina)
 http://162.244.80.222:4086/stream?listening-from-radio-garden=1556369578142
 
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/19/95/19956af66b6ba456bdbd94e2936fccb4.jpg" group-title="United States (WY)",KUWY Classical Wyoming (Laramie)
+https://wprhqstream4.uwyo.edu/kuwy128.mp3?a=b&listening-from-radio-garden=1556980363450
+
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s36399d.png" group-title="United States (WY)",Jazz Wyoming KUWL (Laramie)
+https://wprhqstream4.uwyo.edu/kuwl128.mp3?a=b&listening-from-radio-garden=1556980419783
+
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/19/95/19956af66b6ba456bdbd94e2936fccb4.jpg" group-title="United States (WY)",Wyoming Public Radio (Laramie)
+https://wprhqstream4.uwyo.edu/wpr128.mp3?a=b&listening-from-radio-garden=1556980445095
+
+#EXTINF:-1 radio="true" tvg-logo="http://wyomingsounds.com/wp-content/uploads/2017/03/Wyoming-Sounds-Bison.png" group-title="United States (WY)",Wyoming Sounds (Laramie)
+https://wprhqstream4.uwyo.edu/wys128.mp3?a=b&listening-from-radio-garden=1556980473273
+
+#EXTINF:-1 radio="true" tvg-logo="http://radiostationnet.com/images/station-logo/k/KTED-FM.png" group-title="United States (WY)",100.5 KTED-FM (Evansville)
+http://bmg.streamguys1.com/kted?listening-from-radio-garden=1556980491171
+
+#EXTINF:-1 radio="true" tvg-logo="http://radiostationnet.com/images/station-logo/k/KKTL-AM.png" group-title="United States (WY)",1400 KKTL-AM (Casper)
+http://54.196.154.68/townsquare-kktlamaac-ibc3?listening-from-radio-garden=1556980542058
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/1600Max.png/1200px-1600Max.png" group-title="United States (WY)",92.5 KMXW-FM (Casper)
+http://bmg.streamguys1.com/kmxw?listening-from-radio-garden=1556980569920
+
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/63/78/63782d0acaac52d569b8d0159f8d5c9d.jpg" group-title="United States (WY)",KRNK-FM 96.7 (Casper)
+http://54.196.154.68/townsquare-krnkfmmp3-ibc3?session-id=1f3798bfdacb616076c3d1566750f7ae&listening-from-radio-garden=1556980594130
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/KTWO_%28AM%29_logo.jpg" group-title="United States (WY)",KTWO 1030 AM (Casper)
+http://54.196.154.68/townsquare-ktwoamaac-ibc3?listening-from-radio-garden=1556980620138
+
 
 
 
