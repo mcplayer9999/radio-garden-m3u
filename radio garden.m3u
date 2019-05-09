@@ -879,6 +879,58 @@ http://54.196.154.68/townsquare-krnkfmmp3-ibc3?session-id=1f3798bfdacb616076c3d1
 #EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/KTWO_%28AM%29_logo.jpg" group-title="United States (WY)",KTWO 1030 AM (Casper)
 http://54.196.154.68/townsquare-ktwoamaac-ibc3?listening-from-radio-garden=1556980620138
 
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",WDRE Radio (Hampstead)
+http://edge2-a.exa.live365.net/a43470?listening-from-radio-garden=1557418183329
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",91.3 WUNH-FM (Durham)
+http://s9.viastreaming.net:9000/;?listening-from-radio-garden=1557418269592
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",Live Free or Die Radio (Somersworth)
+http://radio.lfod.online:3140/mpd?listening-from-radio-garden=1557418304665
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",Ital FM (Derry)
+http://217.28.20.20:8032/stream?listening-from-radio-garden=1557418360499
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",WLMV NH Family Radio (Manchester)
+http://wlmw.mainstream.net:8000/wlmw?listening-from-radio-garden=1557418388526
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",WFEA 1370AM/99.9FM (Manchester)
+http://17613.live.streamtheworld.com/WFEAAMAAC.aac?listening-from-radio-garden=1557418427982
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",WNHN 94.7 FM (Concord)
+http://jellyfish.juststreamwith.us:8004/live?listening-from-radio-garden=1557418491302
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",Eargazm Radio (Canterbury)
+http://stream.eargazm.com:8000/hires.mp3?listening-from-radio-garden=1557418521464
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",WASR 1470AM/97.1FM (Wolfeboro)
+http://199.180.75.58:9067/;?listening-from-radio-garden=1557418546667
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",WVMJ Magic 104 (Conway)
+http://crystalout.surfernetwork.com:8001/WVMJ-FM_MP3?listening-from-radio-garden=1557418589556
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",WNTK-FM (New London)
+http://natrix.sugarrivermedia.com:8000/wntk?listening-from-radio-garden=1557418633701
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",Classical 90.9 WSCS-FM (New London)
+http://natrix.sugarrivermedia.com:8000/wscs?listening-from-radio-garden=1557418674861
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",WCNL Country 1010 AM (Newport)
+http://natrix.sugarrivermedia.com:8000/wcnl?listening-from-radio-garden=1557418705966
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",WUVR 1490 AM (Lebanon)
+http://natrix.sugarrivermedia.com:8000/wuvr?listening-from-radio-garden=1557418745669
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",WKNH 91.3 FM (Keene)
+http://158.65.65.234:8007/listen?listening-from-radio-garden=1557418771352
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",Keene Police Scanner (Keene)
+http://streams.freetalklive.com:6060/live?listening-from-radio-garden=1557418820026
+
+#EXTINF:-1 radio="true" group-title="United States (New Hampshire)",LRN.FM (Keene)
+http://s2.voscast.com:7392/;?listening-from-radio-garden=1557418846300
+
+
 
 
 
