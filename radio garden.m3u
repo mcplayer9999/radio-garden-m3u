@@ -879,55 +879,55 @@ http://54.196.154.68/townsquare-krnkfmmp3-ibc3?session-id=1f3798bfdacb616076c3d1
 #EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/KTWO_%28AM%29_logo.jpg" group-title="United States (WY)",KTWO 1030 AM (Casper)
 http://54.196.154.68/townsquare-ktwoamaac-ibc3?listening-from-radio-garden=1556980620138
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",WDRE Radio (Hampstead)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="United States (NH)",WDRE Radio (Hampstead)
 http://edge2-a.exa.live365.net/a43470?listening-from-radio-garden=1557418183329
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",91.3 WUNH-FM (Durham)
+#EXTINF:-1 radio="true" tvg-logo="https://www.unh.edu/wunh/sites/default/files/wunh-logo-player.png" group-title="United States (NH)",91.3 WUNH-FM (Durham)
 http://s9.viastreaming.net:9000/;?listening-from-radio-garden=1557418269592
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",Live Free or Die Radio (Somersworth)
+#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/570048455955861504/cayG-7ei.jpeg" group-title="United States (NH)",Live Free or Die Radio (Somersworth)
 http://radio.lfod.online:3140/mpd?listening-from-radio-garden=1557418304665
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",Ital FM (Derry)
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s0q.png" group-title="United States (NH)",Ital FM (Derry)
 http://217.28.20.20:8032/stream?listening-from-radio-garden=1557418360499
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",WLMV NH Family Radio (Manchester)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="United States (NH)",WLMV NH Family Radio (Manchester)
 http://wlmw.mainstream.net:8000/wlmw?listening-from-radio-garden=1557418388526
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",WFEA 1370AM/99.9FM (Manchester)
+#EXTINF:-1 radio="true" tvg-logo="http://1370wfea.com/wp-content/themes/wfea/img/logo.png" group-title="United States (NH)",WFEA 1370AM/99.9FM (Manchester)
 http://17613.live.streamtheworld.com/WFEAAMAAC.aac?listening-from-radio-garden=1557418427982
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",WNHN 94.7 FM (Concord)
+#EXTINF:-1 radio="true" tvg-logo="http://wnhnfm.org/wp-content/uploads/2014/10/cropped-wnhnlogo_large_3color_transB.jpg" group-title="United States (NH)",WNHN 94.7 FM (Concord)
 http://jellyfish.juststreamwith.us:8004/live?listening-from-radio-garden=1557418491302
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",Eargazm Radio (Canterbury)
+#EXTINF:-1 radio="true" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2016/08/Eargazm-Radio.jpg" group-title="United States (NH)",Eargazm Radio (Canterbury)
 http://stream.eargazm.com:8000/hires.mp3?listening-from-radio-garden=1557418521464
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",WASR 1470AM/97.1FM (Wolfeboro)
+#EXTINF:-1 radio="true" tvg-logo="https://mm.aiircdn.com/247/5813896962ca6.png" group-title="United States (NH)",WASR 1470AM/97.1FM (Wolfeboro)
 http://199.180.75.58:9067/;?listening-from-radio-garden=1557418546667
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",WVMJ Magic 104 (Conway)
+#EXTINF:-1 radio="true" tvg-logo="http://conwaymagic.com/wp-content/uploads/2016/03/cropped-magic-logo.png" group-title="United States (NH)",WVMJ Magic 104 (Conway)
 http://crystalout.surfernetwork.com:8001/WVMJ-FM_MP3?listening-from-radio-garden=1557418589556
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",WNTK-FM (New London)
+#EXTINF:-1 radio="true" tvg-logo="https://static.wixstatic.com/media/a48177_3dd653a81aa44ef48c0fa4a493e1e3e5~mv2.jpg/v1/fill/w_515,h_90,al_c,q_80,usm_0.66_1.00_0.01/WNTK.jpg" group-title="United States (NH)",WNTK-FM (New London)
 http://natrix.sugarrivermedia.com:8000/wntk?listening-from-radio-garden=1557418633701
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",Classical 90.9 WSCS-FM (New London)
+#EXTINF:-1 radio="true" tvg-logo="http://www.classicalwscs.org/wscs01.png" group-title="United States (NH)",Classical 90.9 WSCS-FM (New London)
 http://natrix.sugarrivermedia.com:8000/wscs?listening-from-radio-garden=1557418674861
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",WCNL Country 1010 AM (Newport)
+#EXTINF:-1 radio="true" tvg-logo="https://static.wixstatic.com/media/8ce23f24081bae132097e7026da039ad.wix_mp/v1/fill/w_600,h_110,al_c,usm_0.66_1.00_0.01/8ce23f24081bae132097e7026da039ad.wix_mp" group-title="United States (NH)",WCNL Country 1010 AM (Newport)
 http://natrix.sugarrivermedia.com:8000/wcnl?listening-from-radio-garden=1557418705966
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",WUVR 1490 AM (Lebanon)
+#EXTINF:-1 radio="true" tvg-logo="https://static.wixstatic.com/media/a48177_704c9ff8d840413b8a78f60042054bf4.png/v1/fill/w_324,h_134,al_c,usm_0.66_1.00_0.01/a48177_704c9ff8d840413b8a78f60042054bf4.png" group-title="United States (NH)",WUVR 1490 AM (Lebanon)
 http://natrix.sugarrivermedia.com:8000/wuvr?listening-from-radio-garden=1557418745669
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",WKNH 91.3 FM (Keene)
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s30307d.png" group-title="United States (NH)",WKNH 91.3 FM (Keene)
 http://158.65.65.234:8007/listen?listening-from-radio-garden=1557418771352
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",Keene Police Scanner (Keene)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="United States (NH)",Keene Police Scanner (Keene)
 http://streams.freetalklive.com:6060/live?listening-from-radio-garden=1557418820026
 
-#EXTINF:-1 radio="true" group-title="United States (NH)",LRN.FM (Keene)
+#EXTINF:-1 radio="true" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/42dd70c1-d142-4cc4-bfb7-e318165550d1-profile_image-300x300.png" group-title="United States (NH)",LRN.FM (Keene)
 http://s2.voscast.com:7392/;?listening-from-radio-garden=1557418846300
 
 
