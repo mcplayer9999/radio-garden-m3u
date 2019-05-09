@@ -87,3 +87,7 @@ Nebraska (USA)
 Kansas (USA)
 
 Oklahoma (USA)
+
+Wyoming (USA)
+
+New Hampshire (USA) (missing logos)
