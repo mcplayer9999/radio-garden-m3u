@@ -93,3 +93,9 @@ Wyoming (USA)
 New Hampshire (USA)
 
 Vermont (USA)
+
+Mauritania
+
+Ivory Coast
+
+Sierra Leone
