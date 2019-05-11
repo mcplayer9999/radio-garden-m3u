@@ -930,6 +930,60 @@ http://streams.freetalklive.com:6060/live?listening-from-radio-garden=1557418820
 #EXTINF:-1 radio="true" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/42dd70c1-d142-4cc4-bfb7-e318165550d1-profile_image-300x300.png" group-title="United States (NH)",LRN.FM (Keene)
 http://s2.voscast.com:7392/;?listening-from-radio-garden=1557418846300
 
+#EXTINF:-1 radio="true" tvg-logo="https://a2-images.myspacecdn.com/images03/3/827c46160d8740928a89ac315b90462e/600x600.jpg" group-title="United States (VT)",WJSC 90.7 FM (Johnson)
+http://155.42.39.253:8000/stream?listening-from-radio-garden=1557581207546
+
+#EXTINF:-1 radio="true" tvg-logo="https://ilsr.org/wp-content/uploads/2017/11/Vermont-Public-Radio-logo.jpg" group-title="United States (VT)",Vermont Public Radio Classical (Colchester)
+http://vprclassical.streamguys.net/vprclassical128.mp3?listening-from-radio-garden=1557581236863
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/WCPV_101.3_the_Game_logo.png" group-title="United States (VT)",101.3 ESPN WCPV (Essex)
+http://crystalout.surfernetwork.com:8001/WCPV_MP3?listening-from-radio-garden=1557581270425
+
+#EXTINF:-1 radio="true" tvg-logo="https://s3-media2.fl.yelpcdn.com/bphoto/_N-k1bhzgrowoaQm7lwb8w/ls.jpg" group-title="United States (VT)",The Light Radio Network (Essex)
+http://peace.str3am.com:6350/live?listening-from-radio-garden=1557581303077
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/WEZF_logo.png" group-title="United States (VT)",WEZF Star 92.9 (Burlington)
+http://crystalout.surfernetwork.com:8001/WEZF_MP3?listening-from-radio-garden=1557581322604
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BBC_World_Service_red.svg/2000px-BBC_World_Service_red.svg.png" group-title="United States (VT)",VT Public Radio - BBC World Service (WVPS-HD3) (Burlington)
+http://vprbbc.streamguys.net/vprbbc24.mp3?listening-from-radio-garden=1557581359388
+
+#EXTINF:-1 radio="true" tvg-logo="http://wruv.org/wp-content/uploads/2015/01/wruv-logo-300-1.png" group-title="United States (VT)",WRUV 90.1 FM (Burlington)
+http://icecast.uvm.edu:8005/wruv_fm_256?listening-from-radio-garden=1557581425046
+
+#EXTINF:-1 radio="true" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1100/2019/01/31202651/eagle-country-logo.png" group-title="United States (VT)",WTNN Eagle Country 97.5 (S. Burlington)
+http://crystalout.surfernetwork.com:8001/WTNN_MP3?listening-from-radio-garden=1557581450525
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.centralvt.com/wp-content/uploads/2016/12/101-The-One-Logo.jpg" group-title="United States (VT)",101 The One (Waterbury)
+http://18853.live.streamtheworld.com/WCVTFMAAC.aac?listening-from-radio-garden=1557581484858
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Wdev_logo.png" group-title="United States (VT)",96.1 WDEV-FM (Waterbury)
+http://i1.stretchinternet.com:8000/wdev?listening-from-radio-garden=1557581525599
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Vermont.svg/255px-Flag_of_Vermont.svg.png" group-title="United States (VT)",Vermont Senate (Montpelier)
+http://vprstate.streamguys.net/vprsenate24.mp3?listening-from-radio-garden=1557581561487
+
+#EXTINF:-1 radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/URW8prQJy2.png" group-title="United States (VT)",WNCS-FM (Montpelier)
+http://72.13.83.130:1047/;?listening-from-radio-garden=1557581589735
+
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s114238d.png" group-title="United States (VT)",WMRW Community Radio (Warren)
+http://69.54.28.12:8951/listen?listening-from-radio-garden=1557581633717
+
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s44786d.png" group-title="United States (VT)",WOXR-FM (Middlebury)
+http://vprclassical.streamguys.net/vprclassical64-nopreroll?listening-from-radio-garden=1557581658058
+
+#EXTINF:-1 radio="true" tvg-logo="https://i1.wp.com/radioinsight.com/wp-content/images/2019/05/wiuv.png?fit=600%2C600&ssl=1" group-title="United States (VT)",WIUV-FM 91.3 (Castleton)
+http://155.42.161.60:8000/listen?listening-from-radio-garden=1557581701561
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.weqx.com/wp-content/uploads/2014/09/EQX-Logo-MASTER.jpg" group-title="United States (VT)",WEQX-FM (Manchester)
+http://crystalout.surfernetwork.com:8001/WEQX_MP3?listening-from-radio-garden=1557581736511
+
+#EXTINF:-1 radio="true" tvg-logo="http://blacksheepradio.org/WOOL/WOOLburst.jpg" group-title="United States (VT)",WOOL-FM (Rockingham)
+http://host3.bforg.cust.sover.net:8003/wool.96k.mp3?listening-from-radio-garden=1557581777379
+
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/WCFR_logo.png/220px-WCFR_logo.png" group-title="United States (VT)",WCFR-AM (Springfield)
+http://natrix.sugarrivermedia.com:8000/wcfr?listening-from-radio-garden=1557581814255
+
 
 
 
