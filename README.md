@@ -90,4 +90,6 @@ Oklahoma (USA)
 
 Wyoming (USA)
 
-New Hampshire (USA) (missing logos)
+New Hampshire (USA)
+
+Vermont (USA)
