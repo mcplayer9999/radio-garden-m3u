@@ -984,6 +984,45 @@ http://host3.bforg.cust.sover.net:8003/wool.96k.mp3?listening-from-radio-garden=
 #EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/WCFR_logo.png/220px-WCFR_logo.png" group-title="United States (VT)",WCFR-AM (Springfield)
 http://natrix.sugarrivermedia.com:8000/wcfr?listening-from-radio-garden=1557581814255
 
+#EXTINF:-1 radio="true" tvg-logo="http://www.radioafrican.com/wp-content/uploads/2015/06/Radio-Mauritanie.jpg" group-title="Mauritania",Radio Mauretanie 783 AM/93.3 FM (Nouakchott)
+http://icepe11.infomaniak.ch/radiomauritaniechaine1.aac?listening-from-radio-garden=1557611467351
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.radioafrican.com/wp-content/uploads/2014/11/Radio-Al-Bayane-95.7-FM.jpg" group-title="Ivory Coast",Radio Al Bayane 95.7 FM (Abidjan)
+http://46.105.105.118:8000/albayane.mp3?listening-from-radio-garden=1557611597068
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio-home.net/logos/radio%20blm%20abidjan.png" group-title="Ivory Coast",Radio BLM (Abidjan)
+http://usa7.fastcast4u.com:4486/;?listening-from-radio-garden=1557611635914
+
+#EXTINF:-1 radio="true" tvg-logo="https://static.radio.net/images/broadcasts/c6/3a/10032/c300.png" group-title="Ivory Coast",Radio Espoir 102.8 FM (Abidjan)
+http://radioespoir.ice.infomaniak.ch/radioespoir.mp3?listening-from-radio-garden=1557611660120
+
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/f8/0d/f80d552361a4692a0817eb8d6da02953.jpg" group-title="Ivory Coast",Radio Frequence Vie (Abidjan)
+http://shout.audionow.com:8000/ANFrequenceVie?listening-from-radio-garden=1557611697451
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Ivory Coast",Radio Langues de Feu (Abidjan)
+http://93.190.141.15:7255/;?listening-from-radio-garden=1557611732269
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Ivory Coast",Radio Nationale Catholique FM 102.5 (Abidjan)
+http://radionationalecatholiqueci.ice.infomaniak.ch/radionationalecatholiqueci-128.mp3?listening-from-radio-garden=1557611755446
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.radioafrican.com/wp-content/uploads/2014/11/Nostalgie-101.1-FM-Abidjan.jpg" group-title="Ivory Coast",Radio Nostalgie 101.1 (Abidjan)
+http://213.136.96.14:8000/nostalgie.mp3?.mp3&listening-from-radio-garden=1557611795685
+
+#EXTINF:-1 radio="true" tvg-logo="https://static.radio.net/images/broadcasts/4a/88/38642/2/c300.png" group-title="Sierra Leone",FOP Radio (Moyamba)
+http://fopradio.out.airtime.pro:8000/fopradio_a?listening-from-radio-garden=1557612064348
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2015/09/Radio-Democracy.jpg" group-title="Sierra Leone",98.1 Radio Democracy FM (Freetown)
+https://s2.radio.co/sc8ea415ec/listen?listening-from-radio-garden=1557612104594
+
+#EXTINF:-1 radio="true" tvg-logo="https://d2iw5las1rjvep.cloudfront.net/rfm/uploads/blogo/300/300_1553161010.jpg" group-title="Sierra Leone",AfriRadio 105.3 FM (Freetown)
+http://usa9-vn.mixstream.net:8100/listen.mp3?a=1&listening-from-radio-garden=1557612135051
+
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s272818d.png" group-title="Sierra Leone",Capital Radio (Freetown)
+http://edge-audio-03-gos2.sharp-stream.com/capitalradiosl.mp3?listening-from-radio-garden=1557612258087
+
+#EXTINF:-1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s228567d.png" group-title="Sierra Leone",Sierra Network Radio (Freetown)
+http://45.79.181.148:8004/;?listening-from-radio-garden=1557612283063
+
 
 
 
