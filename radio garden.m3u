@@ -1152,6 +1152,129 @@ http://37.187.93.104:8046/;?listening-from-radio-garden=1557686848226
 #EXTINF:-1 radio="true" group-title="Sudan",راديو البنات (Omdurman)
 http://streams.shoutcastsolutions.com:8293/;?listening-from-radio-garden=1557686855553
 
+#EXTINF:-1 radio="true" group-title="Maldives",Dhivehi Raajeyge Adu (Male)
+http://s3.viastreaming.net:9050/;?listening-from-radio-garden=1557687899330
+
+#EXTINF:-1 radio="true" group-title="Maldives",Radio vNews (Male)
+http://vfmstreaming.myvnc.com:9060/liaten?listening-from-radio-garden=1557688087259
+
+#EXTINF:-1 radio="true" group-title="Maldives",Dhivehi 91.0 FM (Male)
+http://s3.viastreaming.net:8795/;?listening-from-radio-garden=1557688123713
+
+#EXTINF:-1 rado="true" group-title="Maldives",97Minivan (Male)
+http://s1.voscast.com:9180/;?listening-from-radio-garden=1557688144306
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Lord Radio (Jaffna)
+http://procyon.shoutca.st:8719/stream?listening-from-radio-garden=1557688282611
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Radio தமிழா FM (Nallur)
+http://107.182.231.73:7182/stream?listening-from-radio-garden=1557688320711
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Bathusha Radio (Kalmunai)
+http://cp8.serverse.com:7067/stream?type=.mp3&listening-from-radio-garden=1557688379600
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",bestcoast.fm (Hiriketiya)
+https://streams.radio.co/sea5dddd6b/listen?listening-from-radio-garden=1557688419108
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Malai Osai (Kandy)
+http://37.187.90.121:3668/;?listening-from-radio-garden=1557688455996
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Gee Radio (Battaramulla)
+http://equinox.shoutca.st:8139/stream?listening-from-radio-garden=1557688482562
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Free FM (Kotikawatta)
+http://node-15.zeno.fm/z7q96fbw7rquv?listening-from-radio-garden=1557688523554&rj-token=AAABaq2BxB2-r7ssqsU1iruetrhGRBf8A3VGtcnUKn9QV8KZbi9oAw&rj-ttl=5
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Athavan Radio (Colombo)
+http://198.178.123.2:9038/;?listening-from-radio-garden=1557688940216
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Bapdada Tamil Radio (Colombo)
+http://comet.shoutca.st:8995/;?listening-from-radio-garden=1557688951128
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Capital FM (Colombo)
+http://ca4.rcast.net:8060/;?listening-from-radio-garden=1557688959667
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Classic Radio (Colombo)
+http://69.46.24.226:7121/stream?listening-from-radio-garden=1557688970573
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",CRI Sri Lanka 97.9 FM (Colombo)
+http://s16.myradiostream.com:14898/listen.mp3?listening-from-radio-garden=1557688981318
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Fox 91.4 FM (Colombo)
+http://108.61.34.50:7094/;?listening-from-radio-garden=1557688989809
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Gold FM Sri Lanka (Colombo)
+http://209.133.216.3:7048/stream?listening-from-radio-garden=1557688996385
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Hiru FM (Colombo)
+http://hirufm.asiabroadcasting.stream:7018/;?listening-from-radio-garden=1557689010508
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Isaiaruvi FM (Colombo)
+http://79.143.187.96:8049/;?listening-from-radio-garden=1557689016628
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Kiss FM 96.9 Sri Lanka (Colombo)
+http://s3.voscast.com:8404/;?listening-from-radio-garden=1557689024070
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Live FM (Colombo)
+http://69.46.24.226:7118/stream?listening-from-radio-garden=1557689032710
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Neth FM (Colombo)
+http://69.46.24.226:7669/;?listening-from-radio-garden=1557689038986
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Pulse Radio (Colombo)
+http://108.61.34.50:7047/stream?listening-from-radio-garden=1557689048902
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Radio Ceylon (Colombo)
+http://220.247.227.6:8000/Asiastream?listening-from-radio-garden=1557689057279
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Real Rado (Colombo)
+http://s3.voscast.com:8406/;?listening-from-radio-garden=1557689067770
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Red FM 99.5 (Colombo)
+http://shaincast.caster.fm:47830/listen.mp3?listening-from-radio-garden=1557689075563
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Shaa FM 91.1 (Colombo)
+http://shaafm.asiabroadcasting.stream:7073/;?listening-from-radio-garden=1557689084058
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Shakthi FM (Colombo)
+http://live.trusl.com:1160/;?listening-from-radio-garden=1557689090853
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Siyatha FM 98.2 (Colombo)
+http://s3.voscast.com:8408/;?listening-from-radio-garden=1557689098822
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",SLBC Asia Service (Colombo)
+http://220.247.227.6:8000/Asiastream?listening-from-radio-garden=1557689106520
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",SLBC City FM (Colombo)
+http://220.247.227.20:8000/citystream?listening-from-radio-garden=1557689114696
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",SLBC Radio Sri Lanka 97.4 FM (Colombo)
+http://220.247.227.20:8000/RSLstream?listening-from-radio-garden=1557689122882
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",SLBC Sinhala Commercial Service (Colombo)
+http://220.247.227.6:8000/Scomstream?listening-from-radio-garden=1557689130136
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",SLBC Sinhala National Service (Colombo)
+http://220.247.227.6:8000/Snsstream?listening-from-radio-garden=1557689140716
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",SLBC Tamil National Service (Colombo)
+http://220.247.227.6:8000/Tnsstream?listening-from-radio-garden=1557689149410
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",SLBC Thendral FM (Colombo)
+http://220.247.227.20:8000/Threndralstream?listening-from-radio-garden=1557689157637
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Sooriyan FM (Colombo)
+http://sooriyanfm.asiabroadcasting.stream:7071/;?listening-from-radio-garden=1557689164288
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Sun FM Sri Lanka (Colombo)
+http://209.133.216.3:7058/;?listening-from-radio-garden=1557689171585
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Varnam FM 90.4 (Colombo)
+http://s3.voscast.com:8402/;?listening-from-radio-garden=1557689178741
+
+#EXTINF:-1 radio="true" group-title="Sri Lanka",Vasantham FM (Colombo)
+http://76.164.217.100:7489/stream/1/?listening-from-radio-garden=1557689185822
+
 
 
 
