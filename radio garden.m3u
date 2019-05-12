@@ -1023,6 +1023,136 @@ http://edge-audio-03-gos2.sharp-stream.com/capitalradiosl.mp3?listening-from-rad
 #EXTINF:-1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s228567d.png" group-title="Sierra Leone",Sierra Network Radio (Freetown)
 http://45.79.181.148:8004/;?listening-from-radio-garden=1557612283063
 
+#EXTINF:-1 radio="true" group-title="Cape Verde",Radio Morabeza (Mindelo)
+http://92.222.77.115:8112/stream?listening-from-radio-garden=1557684628844
+
+#EXTINF:-1 radio="true" group-title="Cape Verde",Radio Cabo Verde International (Santa Maria)
+http://streaming.radiocaboverdeinternational.com:8090/?listening-from-radio-garden=1557684674924
+
+#EXTINF:-1 radio="true" group-title="Cape Verde",Radio Cidade 91.1 FM (Praia)
+http://hts02.kshost.com.br:9288/live?listening-from-radio-garden=1557684694586
+
+#EXTINF:-1 radio="true" group-title="St. Helena",Saint FM 95.4 (Georgetown)
+http://radio.canstream.co.uk:8013/live.mp3?listening-from-radio-garden=1557684748280
+
+#EXTINF:-1 radio="true" group-title="South Sudan",Miraya FM (Juba)
+http://s3.myradiostream.com:15918/listen.mp3?listening-from-radio-garden=1557684819778
+
+#EXTINF:-1 radio="true" group-title="Ethiopia",97.8 ኢትዮ FM (Addis Ababa)
+http://ample-11.radiojar.com/evu0e26m7p5tv?listening-from-radio-garden=1557684872558&rj-ttl=5&rj-token=AAABaq1KDitZl9rBsKAS5BCkeeuEeF5guB70hwYizQsj59FD7BsHqg
+
+#EXTINF:-1 radio="true" group-title="Ethiopia",Afro 105.3 FM (Addis Ababa)
+http://node-18.zeno.fm/t5td4ky6hkeuv?1544450705=&listening-from-radio-garden=1557684923661&rj-ttl=5&rj-token=AAABaq1K1h4r8bULpenas38ayzDSt7PSULPzRfvqzQ73wovoO_CbYQ
+
+#EXTINF:-1 radio="true" group-title="Ethiopia",Afro FM (Addis Ababa)
+http://node-18.zeno.fm/t5td4ky6hkeuv.aac?listening-from-radio-garden=1557684937652&rj-token=AAABaq1LDMwJY4F-DaX8pstXcsTu1RNoYA52135HXVppa6uhz4Y5_Q&rj-ttl=5
+
+#EXTINF:-1 radio="true" group-title="Ethiopia",Ahadu Radio (Addis Ababa)
+http://node-18.zeno.fm/wbwxeuqrwueuv?fbclid=IwAR3BAJsNj5Eihii1JcarDY-UV6E1vqh3Tv6RBvnqMVxwwwq9mjIO8XSxTNs&listening-from-radio-garden=1557684948312&rj-ttl=5&rj-token=AAABaq1LNYXwSq4QRbdfC9AfevVgif5JJu4Z7RqiU_ftbfigr4pVhg
+
+#EXTINF:-1 radio="true" group-title="Ethiopia",Zami 90.7 (ፊት ገፅ 90.7) (Addis Ababa)
+http://stream.zenolive.com/61hxscaatxquv
+
+#EXTINF:-1 radio="true" group-title="Ethiopia",የሸገር Sheger FM 102.1 (Addis Ababa)
+http://node-24.zeno.fm/st55ta775wquv?rj-ttl=5&rj-token=AAABaq1LiaIrRjT9uVKG1OrSDUuWMPghnHP2fTI3F0MM7U37TNyIsg
+
+#EXTINF:-1 radio="true" group-title="Bahrain",Radio The Voice of Ummah (Manama)
+http://198.178.123.17:7634/stream/1/;?listening-from-radio-garden=1557685139139
+
+#EXTINF:-1 radio="true" group-title="Bahrain",Radio Mirchi Bahrain (Manama)
+http://162.244.80.118:4055/stream?listening-from-radio-garden=1557685195195
+
+#EXTINF:-1 radio="true" group-title="Yemen",Almaher FM اذاعة الماهر (Tarim)
+http://163.172.232.164:8050/;?listening-from-radio-garden=1557685254237
+
+#EXTINF:-1 radio="true" group-title="Yemen",اذاعة الشيخ فارس عباد (Al Mukalla)
+http://server2.quraan.us:9904/;?listening-from-radio-garden=1557685322750
+
+#EXTINF:-1 radio="true" group-title="Yemen",Marib Radio (Marib)
+http://radio1.sotmasr.com:9300/;?listening-from-radio-garden=1557685418252
+
+#EXTINF:-1 radio="true" group-title="Yemen",اذاعة الشيخ محمد ايوب (Hajjah)
+http://server2.quraan.us:9896/;*.mp3?listening-from-radio-garden=1557685453798
+
+#EXTINF:-1 radio="true" group-title="Yemen",راديو الشيخ وديع اليمني (Ibb)
+http://server2.quraan.us:9784/;?listening-from-radio-garden=1557685541430
+
+#EXTINF:-1 radio="true" group-title="Yemen",راديو الجند Aljanad (Taizz)
+http://radio.hvips.com:8030/stream?listening-from-radio-garden=1557685617576
+
+#EXTINF:-1 radio="true" group-title="Yemen",اذاعة القارئ ابوبكر الشاطري (Aden)
+http://quraan.us:9892/;*.mp3?listening-from-radio-garden=1557685747607
+
+#EXTINF:-1 radio="true" group-title="Yemen",اذاعة عبدالباسط عبدالصمد (Aden)
+http://quraan.us:9916/;*.mp3?listening-from-radio-garden=1557685802103
+
+#EXTINF:-1 radio="true" group-title="Yemen",بندر عدن  FM 99.9 (Aden)
+http://r.bandaraden.net:8003/bndr?listening-from-radio-garden=1557685813092
+
+#EXTINF:-1 radio="true" group-title="Yemen",Afaq FM 98.7 - اذاعة افاق (Sana'a)
+http://edge.mixlr.com/channel/rumps?listening-from-radio-garden=1557686092477
+
+#EXTINF:-1 radio="true" group-title="Yemen",Radio Alwan (Sana'a)
+http://108.61.34.50:7005/LIVE?listening-from-radio-garden=1557686079648
+
+#EXTINF:-1 radio="true" group-title="Yemen",SAM FM (Sana'a)
+http://edge.mixlr.com/channel/kijwr?listening-from-radio-garden=1557686073595
+
+#EXTINF:-1 radio="true" group-title="Yemen",Sanaa radio (Sana'a)
+http://93.190.141.15:7183/live?listening-from-radio-garden=1557686066511
+
+#EXTINF:-1 radio="true" group-title="Yemen",Sawtalshaab (Sana'a)
+http://178.32.62.172:8646/;?listening-from-radio-garden=1557686058502
+
+#EXTINF:-1 radio="true" group-title="Yemen",اذاعة المصحف المعلم (Sana'a)
+http://server2.quraan.us:9308/;*.mp3?listening-from-radio-garden=1557686050116
+
+#EXTINF:-1 radio="true" group-title="Yemen",برق FM (Sana'a)
+http://barqfm.net:8000/;?listening-from-radio-garden=1557686034933
+
+#EXTINF:-1 radio="true" group-title="Yemen",راديو اليمن العربي (Sana'a)
+http://www.radioma3ak.com:8100/;?listening-from-radio-garden=1557686022528
+
+#EXTINF:-1 radio="true" group-title="Yemen",يمن شباب Yemen Shabab (Sana'a)
+http://radio.starmenacdn.com:8081/yemenshabab.mp3?listening-from-radio-garden=1557686006802
+
+#EXTINF:-1 radio="true" group-title="Somalia",Radio Kulmiye 88.0 (Mogadishu)
+http://37.59.47.192:8436/stream?listening-from-radio-garden=1557686444816
+
+#EXTINF:-1 radio="true" group-title="Sudan",Hala 96 FM (Port Sudan)
+http://108.61.34.50:7026/stream?listening-from-radio-garden=1557686568761
+
+#EXTINF:-1 radio="true" group-title="Sudan",Al Zain Quran Radio (Khartoum)
+http://5.39.71.159:8118/;?listening-from-radio-garden=1557686603773
+
+#EXTINF:-1 radio="true" group-title="Sudan",Aywa FM (Khartoum)
+http://142.4.217.133:8835/;?listening-from-radio-garden=1557686625867
+
+#EXTINF:-1 radio="true" group-title="Sudan",Beladi FM (Khartoum)
+http://node-24.zeno.fm/uqh3g0dqhpeuv?listening-from-radio-garden=1557686647203&rj-token=AAABaq1lIqJYu6POr9aI2F_Zrw2uX_VDap6Lp-wRQE2JKW2UlnoZCQ&rj-ttl=5
+
+#EXTINF:-1 radio="true" group-title="Sudan",Madieh Radio Sudan (Khartoum)
+http://5.39.71.159:8271/;?listening-from-radio-garden=1557686666906
+
+#EXTINF:-1 radio="true" group-title="Sudan",إذاعة المديح (Omdurman)
+http://tijaniyyah.asuscomm.com:8000/stream/3/?listening-from-radio-garden=1557686689001
+
+#EXTINF:-1 radio="true" group-title="Sudan",الزاوية التجانية (Omdurman)
+http://tijaniyyah.asuscomm.com:8000/stream/1/?listening-from-radio-garden=1557686819494
+
+#EXTINF:-1 radio="true" group-title="Sudan",السيادة (Omdurman)
+http://tijaniyyah.asuscomm.com:8000/stream/6/?listening-from-radio-garden=1557686830567
+
+#EXTINF:-1 radio="true" group-title="Sudan",Omdurman Radio Sudan (Omdurman)
+http://178.33.251.97:8639/;?listening-from-radio-garden=1557686839557
+
+#EXTINF:-1 radio="true" group-title="Sudan",Radio Al Quafi (Omdurman)
+http://37.187.93.104:8046/;?listening-from-radio-garden=1557686848226
+
+#EXTINF:-1 radio="true" group-title="Sudan",راديو البنات (Omdurman)
+http://streams.shoutcastsolutions.com:8293/;?listening-from-radio-garden=1557686855553
+
+
 
 
 
