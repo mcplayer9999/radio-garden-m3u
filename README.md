@@ -99,3 +99,19 @@ Mauritania
 Ivory Coast
 
 Sierra Leone
+
+Cape Verde
+
+St. Helena
+
+South Sudan
+
+Ethiopia
+
+Bahrain
+
+Yemen
+
+Somalia
+
+Sudan
