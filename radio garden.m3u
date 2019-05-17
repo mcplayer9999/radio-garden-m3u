@@ -1275,6 +1275,204 @@ http://s3.voscast.com:8402/;?listening-from-radio-garden=1557689178741
 #EXTINF:-1 radio="true" group-title="Sri Lanka",Vasantham FM (Colombo)
 http://76.164.217.100:7489/stream/1/?listening-from-radio-garden=1557689185822
 
+#EXTINF:-1 radio="true" grouop-ttile="New Zealand",Radio Southland 96.4 FM (Invercargill)
+http://pebbles.wizzhosting.co.nz/rs?listening-from-radio-garden=1558125229303
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Cave FM Gore (Gore)
+http://103.242.48.2:8010/stream?listening-from-radio-garden=1558125305966
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Radio One 91 FM (Dunedin)
+http://stream.r1.co.nz:8090/r1-high.mp3?listening-from-radio-garden=1558125342564
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Otago Access Radio 105.4 FM (Dunedin)
+http://live.wizz.co.nz/tr?listening-from-radio-garden=1558125380119
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Rock It 107.4 (Port Chalmers)
+http://108.163.223.242:8368/stream?listening-from-radio-garden=1558125437346
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Brian FM 105.5 Alexandra/Cromwell (Alexandra)
+http://s40.myradiostream.com:10004/;?listening-from-radio-garden=1558125485474
+
+#EXTINF:-1 radio="true" group-title="New Zealand",OMCRN (Wanaka)
+http://93.190.141.15:7096/stream?listening-from-radio-garden=1558125529795
+
+#EXTINF:-1 radio="true" group-title="New Zealand",High Country FM (Omarama)
+http://s40.myradiostream.com:13548/listen.mp3?listening-from-radio-garden=1558125555761
+
+#EXTINF:-1 radio="true" group-title="New Zealand",100.3 FM South Canterbury (Timaru)
+http://uk4-vn.mixstream.net:8066/;?listening-from-radio-garden=1558125609809
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Brian FM Ashburton 99.7 FM (Ashburton)
+http://s40.myradiostream.com:10106/;?listening-from-radio-garden=1558125642752
+
+#EXTINF:-1 radio="true" group-title="New Zealand",107.4 BFM (ChristChurch)
+http://91.121.65.37:21652/;?listening-from-radio-garden=1558125676028
+
+#EXTINF:-1 radio="true" group-title="New Zealand",8K.NZ (ChristChurch)
+http://radio8k.out.airtime.pro:8000/radio8k_a?listening-from-radio-garden=1558125750064
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Channel Z (ChristChurch)
+http://cassini.shoutca.st:8406/stream?listening-from-radio-garden=1558125780627
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Plains FM 96.9 (ChristChurch)
+http://live.wizz.co.nz/pfm?listening-from-radio-garden=1558125803226
+
+#EXTINF:-1 radio="true" group-title="New Zealand",RDU 98.5 FM (ChristChurch)
+http://live.outcastdigital.com:8000/rdu?listening-from-radio-garden=1558125829514
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Static: New Zealand (ChristChurch)
+http://streamingv2.shoutcast.com/Static-NewZealand?lang=en-US%2cen%3bq%3d0.9
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Laser 558 (Denniston)
+http://www.owdjim.gen.nz:12600/content/Laser558_Erin.mp3?listening-from-radio-garden=1558125884580
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Fresh FM (Nelson)
+http://live.wizz.co.nz/ffm?listening-from-radio-garden=1558125903932
+
+#EXTINF:-1 radio="true" group-title="New Zealand",World FM (Marahau)
+http://worldfm.radio:8882/worldfmstereo.mp3?listening-from-radio-garden=1558125932472
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Awa Whanui Big River FM (Dargaville)
+http://bigriver.broadcast.co.nz/bigriverfm?listening-from-radio-garden=1558126523000
+
+#EXTINF:-1 radio="true" group-title="New Zealand",BeagleRadio (Whangarei)
+http://174.37.159.206:8034/stream?listening-from-radio-garden=1558126656359
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Ngati Hine FM (Whangarei)
+http://apple.irirangi.net:8000/N_Ngati_Hene.aac?listening-from-radio-garden=1558126713049
+
+#EXTINF:-1 radio="true" group-title="New Zealand",The Generator (Whangarei)
+http://s1.myradiostream.com:14268/listen.mp3?listening-from-radio-garden=1558126757997
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Heads (Mangawhai)
+http://144.217.195.24:8760/stream?listening-from-radio-garden=1558126772660
+
+#EXTINF:-1 radio="true" group-title="New Zealand",95bFM (Auckland)
+http://streams.95bfm.com/stream128?listening-from-radio-garden=1558126825224
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Auckland 80s (Auckland)
+http://janus.shoutca.st:8020/stream?listening-from-radio-garden=1558126838523
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Dave FM (Auckland)
+http://s13.myradiostream.com:4618/listen.mp3?listening-from-radio-garden=1558126878516
+
+#EXTINF:-1 radio="true" group-title="New Zealand",East FM (Auckland)
+http://listen.eastfm.nz/stream.mp3?listening-from-radio-garden=1558126898675
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Humm FM (Auckland)
+http://93.190.141.15:7004/humm_64.mp3?listening-from-radio-garden=1558126910769
+
+#EXTINF:-1 radio="true" group-title="New Zealand",KFM 106.9 (Auckland)
+http://s2.voscast.com:11614/;?listening-from-radio-garden=1558126945291
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Life FM Auckland (Auckland)
+http://rhema-radio.streamguys1.com/rhema-lifefm.mp3?listening-from-radio-garden=1558126969316
+
+#EXTINF:-1 radio="true" group-title="New Zealand",New Zealand's Rhema (Auckland)
+http://rhema-radio.streamguys1.com/rhema.mp3?listening-from-radio-garden=1558126991200
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Planet FM 104.6 (Auckland)
+https://cp12.shoutcheap.com:18220/strem?listening-from-radio-garden=1558127019699
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Radio 531pi (Auckland)
+http://19263.live.streamtheworld.com/531PI.mp3?listening-from-radio-garden=1558127046402
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Radio City (Auckland)
+http://54.251.110.128:8000/live?listening-from-radio-garden=1558127070399
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Radio New Zealand National (Auckland)
+http://radionz-ice.streamguys.com/national.mp3?listening-from-radio-garden=1558127096464
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Radio Vox Brazil (Auckland)
+http://live.dgradios.com/voxbrazil_mp3_128k?listening-from-radio-garden=1558127111497
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Retro Hit Radio (Auckland)
+http://gemini.shoutca.st:8293/;?listening-from-radio-garden=1558127146964
+
+#EXTINF:-1 radio="true" group-title="New Zealand",West FM (Auckland)
+http://dledgar.dyndns.org:8000/westfm?listening-from-radio-garden=1558127175683
+
+#EXTINF:-1 radio="true" group-title="New Zealand",ZFM - All the Hits (Auckland)
+http://nebula.shoutca.st:8545/stream?listening-from-radio-garden=1558127194028
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Auckland 80s (Waiuku)
+https://streamer.radio.co/s81fc850fd/listen?listening-from-radio-garden=1558127213802
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Easy 80s (Waiuku)
+http://procyon.shoutca.st:8032/;?listening-from-radio-garden=1558127260571
+
+#EXTINF:-1 radio="true" group-title="New Zealand",The Groove (Waiuku)
+https://s2.radio.co/s8f365c534/listen?listening-from-radio-garden=1558127282326
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Sleep Radio (Te Aroha)
+http://149.56.234.138:8169/;?listening-from-radio-garden=1558127305484
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Free FM 89 (Hamilton)
+http://live.wizz.co.nz/freefm?listening-from-radio-garden=1558127329382
+
+#EXTINF:-1 radio="true" group-title="New Zealand",RAG FM 107.7 (Raglan)
+http://70.38.12.44:8564/;?listening-from-radio-garden=1558127351143
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Raglan Community Radio (Raglan)
+http://58.28.153.160/broadwave.mp3?src=1&rate=128&listening-from-radio-garden=1558127374589
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Access Radio Taranaki 104.4 FM (New Plymouth)
+http://pebbles.wizzhosting.co.nz/art?listening-from-radio-garden=1558127402255
+
+#EXTINF:-1 radio="true" group-title="New Zealand",The Most 100.4 FM (New Plymouth)
+http://gordon.mostfm.com:8000/high?.mp3&listening-from-radio-garden=1558127431105
+
+#EXTINF:-1 radio="true" group-title="New Zealand",The Chill (Taupo)
+http://media-sov.musicradio.com/Chill?listening-from-radio-garden=1558127447521
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Spellbound Radio (Gisbourne)
+http://158.69.225.238:6518/Live?listening-from-radio-garden=1558127488345
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Radio Kidnappers (Hastings)
+http://pebbles.wizzhosting.co.nz/rk?listening-from-radio-garden=1558127515645
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Access Manawatu 999 AM (Palmerston North)
+http://live.wizz.co.nz/am?listening-from-radio-garden=1558127542144
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Radio Control (Palmerston North)
+http://ice1.outcastdigital.com:8000/radiocontrol?listening-from-radio-garden=1558127580825
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Coast Access Radio 104.7 FM (Waikanae)
+http://live.wizz.co.nz/car?listening-from-radio-garden=1558127604308
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Andhow.FM (Porirua)
+http://199.180.75.6/;?listening-from-radio-garden=1558127638978
+
+#EXTINF:-1 radio="true" group-title="New Zealand",KIX FM (Wellington)
+http://stream.amsmusic.co.nz:8178/stream?listening-from-radio-garden=1558127663761
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Maranui FM (Wellington)
+http://pebbles.wizzhosting.co.nz/maranuifm?listening-from-radio-garden=1558127709611
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Mix FM 87.7 (Wellington)
+http://stream.mixfm.nz/?listening-from-radio-garden=1558127725748
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Naked FM (Wellington)
+http://203.96.209.218:8000/;?listening-from-radio-garden=1558127739367
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Radio Active (Wellington)
+http://stream.radioactive.fm:8000/ractive?listening-from-radio-garden=1558127756439
+
+#EXTINF:-1 radio="true" group-title="New Zealand",RNZ International (Wellington)
+http://radionz-ice.streamguys.com/international.mp3?listening-from-radio-garden=1558127779345
+
+#EXTINF:-1 radio="true" group-title="New Zealand",RNZ National (Wellington)
+http://radionz-ice.streamguys.com/national.mp3?listening-from-radio-garden=1558127795454
+
+#EXTINF:-1 radio="true" group-title="New Zealand",Wellington Access Radio 106.1 (Wellington)
+http://live.wizz.co.nz/war?listening-from-radio-garden=1558127825088
+
+#EXTINF:-1 radio="true" group-title="New Zealand",World FM (Wellington)
+http://www.worldfm.co.nz:8882/worldfm.mp3?.mp3&listening-from-radio-garden=1558127849936
+
+#EXTINF:-1 radio="true" group-title="Cook Islands",88 FM (Avarua Dist.)
+http://ruby.streamguys.com:5510/xstream?listening-from-radio-garden=1558127869581
+
 
 
 
