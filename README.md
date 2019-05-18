@@ -119,3 +119,11 @@ Sudan
 Maldives
 
 Sri Lanka
+
+New Zealand
+
+Cook Islands (NZ)
+
+New Caledonia (France)
+
+Fiji
