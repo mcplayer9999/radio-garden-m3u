@@ -1473,6 +1473,33 @@ http://www.worldfm.co.nz:8882/worldfm.mp3?.mp3&listening-from-radio-garden=15581
 #EXTINF:-1 radio="true" group-title="Cook Islands",88 FM (Avarua Dist.)
 http://ruby.streamguys.com:5510/xstream?listening-from-radio-garden=1558127869581
 
+#EXTINF:-1 radio="true" group-title="New Caledonia",Océane FM (Nouméa)
+http://radio.oceanefm.nc:8000/oceanenc?listening-from-radio-garden=1558188709043
+
+#EXTINF:-1 radio="true" group-title="New Caledonia",Radio Rythme Bleu (Nouméa)
+http://radio.lagoon.nc/rrb?listening-from-radio-garden=1558188815761
+
+#EXTINF:-1 radio="true" group-title="Fiji",Mix FM 93.8 (Lautoka)
+http://fijiradio.net:8000/live?listening-from-radio-garden=1558188833841
+
+#EXTINF:-1 radio="true" group-title="Fiji",Bula FM 102.0 (Suva)
+http://peridot.streamguys.com:7150/Bula?listening-from-radio-garden=1558188873446
+
+#EXTINF:-1 radio="true" group-title="Fiji",Mirchi FM (Suva)
+http://peridot.streamguys.com:7150/Mirchi?listening-from-radio-garden=1558188887096
+
+#EXTINF:-1 radio="true" group-title="Fiji",Radio 2Day FM (Suva)
+http://peridot.streamguys.com:7150/2Day?listening-from-radio-garden=1558188916008
+
+#EXTINF:-1 radio="true" group-title="Fiji",Radio Fiji GOLD FM 100.4 (Suva)
+http://peridot.streamguys.com:7150/Gold?listening-from-radio-garden=1558188938275
+
+#EXTINF:-1 radio="true" group-title="Fiji",Radio Fiji ONE FM 107.4 (Suva)
+http://peridot.streamguys.com:7150/RFOne?listening-from-radio-garden=1558188959612
+
+#EXTINF:-1 radio="true" group-title="Fiji",Radio Fiji Two (Suva)
+http://peridot.streamguys.com:7150/RFTwo?listening-from-radio-garden=1558188990698
+
 
 
 
