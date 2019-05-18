@@ -1164,25 +1164,25 @@ http://s3.viastreaming.net:8795/;?listening-from-radio-garden=1557688123713
 #EXTINF:-1 rado="true" tvg-logo="https://static-media.streema.com/media/cache/be/03/be03f6ff7ea15702a88a158c70010446.jpg" group-title="Maldives",97Minivan (Male)
 http://s1.voscast.com:9180/;?listening-from-radio-garden=1557688144306
 
-#EXTINF:-1 radio="true" group-title="Sri Lanka",Lord Radio (Jaffna)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Sri Lanka",Lord Radio (Jaffna)
 http://procyon.shoutca.st:8719/stream?listening-from-radio-garden=1557688282611
 
-#EXTINF:-1 radio="true" group-title="Sri Lanka",Radio தமிழா FM (Nallur)
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/0e/d1/0ed158f433589b8a294df0577599b1c5.jpg" group-title="Sri Lanka",Radio தமிழா FM (Nallur)
 http://107.182.231.73:7182/stream?listening-from-radio-garden=1557688320711
 
-#EXTINF:-1 radio="true" group-title="Sri Lanka",Bathusha Radio (Kalmunai)
+#EXTINF:-1 radio="true" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/69/0e/bf/690ebfe7-77d2-1151-767e-c21fceab882d/source/512x512bb.jpg" group-title="Sri Lanka",Bathusha Radio (Kalmunai)
 http://cp8.serverse.com:7067/stream?type=.mp3&listening-from-radio-garden=1557688379600
 
-#EXTINF:-1 radio="true" group-title="Sri Lanka",bestcoast.fm (Hiriketiya)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Sri Lanka",bestcoast.fm (Hiriketiya)
 https://streams.radio.co/sea5dddd6b/listen?listening-from-radio-garden=1557688419108
 
-#EXTINF:-1 radio="true" group-title="Sri Lanka",Malai Osai (Kandy)
+#EXTINF:-1 radio="true" tvg-logo="http://allindiafmradios.online/apanel/media/upload/Osai%20FM%20Tamil%20Online%20Fm%20Radio.jpg" group-title="Sri Lanka",Malai Osai (Kandy)
 http://37.187.90.121:3668/;?listening-from-radio-garden=1557688455996
 
-#EXTINF:-1 radio="true" group-title="Sri Lanka",Gee Radio (Battaramulla)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Sri Lanka",Gee Radio (Battaramulla)
 http://equinox.shoutca.st:8139/stream?listening-from-radio-garden=1557688482562
 
-#EXTINF:-1 radio="true" group-title="Sri Lanka",Free FM (Kotikawatta)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Sri Lanka",Free FM (Kotikawatta)
 http://node-15.zeno.fm/z7q96fbw7rquv?listening-from-radio-garden=1557688523554&rj-token=AAABaq2BxB2-r7ssqsU1iruetrhGRBf8A3VGtcnUKn9QV8KZbi9oAw&rj-ttl=5
 
 #EXTINF:-1 radio="true" group-title="Sri Lanka",Athavan Radio (Colombo)
@@ -1470,34 +1470,34 @@ http://live.wizz.co.nz/war?listening-from-radio-garden=1558127825088
 #EXTINF:-1 radio="true" group-title="New Zealand",World FM (Wellington)
 http://www.worldfm.co.nz:8882/worldfm.mp3?.mp3&listening-from-radio-garden=1558127849936
 
-#EXTINF:-1 radio="true" group-title="Cook Islands",88 FM (Avarua Dist.)
+#EXTINF:-1 radio="true" tvg-logo="http://www.88fmcookislands.com/uploads/8/3/1/7/83172428/88-boomboom-baby_2.jpg?306" group-title="Cook Islands",88 FM (Avarua Dist.)
 http://ruby.streamguys.com:5510/xstream?listening-from-radio-garden=1558127869581
 
-#EXTINF:-1 radio="true" group-title="New Caledonia",Océane FM (Nouméa)
+#EXTINF:-1 radio="true" tvg-logo="http://www.oceanefm.nc/NEW_LOGO_OCEANE-FM_Coul-2.gif?v=1i3gr06o1ak6kry" group-title="New Caledonia",Océane FM (Nouméa)
 http://radio.oceanefm.nc:8000/oceanenc?listening-from-radio-garden=1558188709043
 
-#EXTINF:-1 radio="true" group-title="New Caledonia",Radio Rythme Bleu (Nouméa)
+#EXTINF:-1 radio="true" tvg-logo="https://www.rrb.nc/videos/rrb-poster.jpg" group-title="New Caledonia",Radio Rythme Bleu (Nouméa)
 http://radio.lagoon.nc/rrb?listening-from-radio-garden=1558188815761
 
-#EXTINF:-1 radio="true" group-title="Fiji",Mix FM 93.8 (Lautoka)
+#EXTINF:-1 radio="true" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2014/12/Mix-FM-Fiji.jpg" group-title="Fiji",Mix FM 93.8 (Lautoka)
 http://fijiradio.net:8000/live?listening-from-radio-garden=1558188833841
 
-#EXTINF:-1 radio="true" group-title="Fiji",Bula FM 102.0 (Suva)
+#EXTINF:-1 radio="true" tvg-logo="https://d3tahvfkle3xlm.cloudfront.net/images/Kaow/ERrMJ23v.jpg" group-title="Fiji",Bula FM 102.0 (Suva)
 http://peridot.streamguys.com:7150/Bula?listening-from-radio-garden=1558188873446
 
-#EXTINF:-1 radio="true" group-title="Fiji",Mirchi FM (Suva)
+#EXTINF:-1 radio="true" tvg-logo="http://www.mirchifm.com.fj/wp-content/uploads/2018/11/MIRCH_FM_500px.png" group-title="Fiji",Mirchi FM (Suva)
 http://peridot.streamguys.com:7150/Mirchi?listening-from-radio-garden=1558188887096
 
-#EXTINF:-1 radio="true" group-title="Fiji",Radio 2Day FM (Suva)
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2day_fm.png/268px-2day_fm.png" group-title="Fiji",Radio 2Day FM (Suva)
 http://peridot.streamguys.com:7150/2Day?listening-from-radio-garden=1558188916008
 
-#EXTINF:-1 radio="true" group-title="Fiji",Radio Fiji GOLD FM 100.4 (Suva)
+#EXTINF:-1 radio="true" tvg-logo="https://www.reezom.net/wp-content/uploads/elementor/thumbs/GOLD_FOR_BLACK_BG_300-o0r69ykebdggga2yjmqgnkxuhc6e7w35g9s5705ghk.jpg" group-title="Fiji",Radio Fiji GOLD FM 100.4 (Suva)
 http://peridot.streamguys.com:7150/Gold?listening-from-radio-garden=1558188938275
 
-#EXTINF:-1 radio="true" group-title="Fiji",Radio Fiji ONE FM 107.4 (Suva)
+#EXTINF:-1 radio="true" tvg-logo="https://media.info/i/lf/300/1498466608/6710.png" group-title="Fiji",Radio Fiji ONE FM 107.4 (Suva)
 http://peridot.streamguys.com:7150/RFOne?listening-from-radio-garden=1558188959612
 
-#EXTINF:-1 radio="true" group-title="Fiji",Radio Fiji Two (Suva)
+#EXTINF:-1 radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vtWmJrjrae.png" group-title="Fiji",Radio Fiji Two (Suva)
 http://peridot.streamguys.com:7150/RFTwo?listening-from-radio-garden=1558188990698
 
 
