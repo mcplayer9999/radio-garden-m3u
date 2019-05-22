@@ -1185,13 +1185,13 @@ http://equinox.shoutca.st:8139/stream?listening-from-radio-garden=1557688482562
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Sri Lanka",Free FM (Kotikawatta)
 http://node-15.zeno.fm/z7q96fbw7rquv?listening-from-radio-garden=1557688523554&rj-token=AAABaq2BxB2-r7ssqsU1iruetrhGRBf8A3VGtcnUKn9QV8KZbi9oAw&rj-ttl=5
 
-#EXTINF:-1 radio="true" group-title="Sri Lanka",Athavan Radio (Colombo)
+#EXTINF:-1 radio="true" tvg-logo="https://static.radio.net/images/broadcasts/4d/4c/103491/1/c300.png" group-title="Sri Lanka",Athavan Radio (Colombo)
 http://198.178.123.2:9038/;?listening-from-radio-garden=1557688940216
 
-#EXTINF:-1 radio="true" group-title="Sri Lanka",Bapdada Tamil Radio (Colombo)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Sri Lanka",Bapdada Tamil Radio (Colombo)
 http://comet.shoutca.st:8995/;?listening-from-radio-garden=1557688951128
 
-#EXTINF:-1 radio="true" group-title="Sri Lanka",Capital FM (Colombo)
+#EXTINF:-1 radio="true" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2018/02/Capital-FM-Sri-Lanka.jpg" group-title="Sri Lanka",Capital FM (Colombo)
 http://ca4.rcast.net:8060/;?listening-from-radio-garden=1557688959667
 
 #EXTINF:-1 radio="true" group-title="Sri Lanka",Classic Radio (Colombo)
