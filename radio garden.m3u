@@ -1275,64 +1275,64 @@ http://s3.voscast.com:8402/;?listening-from-radio-garden=1557689178741
 #EXTINF:-1 radio="true" tvg-logo="http://listenfms.com/wp-content/uploads/2015/06/vasantham-fm-online-Live.jpg" group-title="Sri Lanka",Vasantham FM (Colombo)
 http://76.164.217.100:7489/stream/1/?listening-from-radio-garden=1557689185822
 
-#EXTINF:-1 radio="true" grouop-ttile="New Zealand",Radio Southland 96.4 FM (Invercargill)
+#EXTINF:-1 radio="true" tvg-logo="https://assets.yellow.co.nz/file/v1-1eHR6_NbCO7Wry1pya5VKx8tPDaEObhjVH3t0IvAFv21wgKYrP19lzP6GzjQv-Qt6H7NEsaiQAnHccQo593cVT9yyNZLT90jEdicSuKZZ57EunP7gDTK0Qy8Pm721qxXCEWyqoLxTIZaYkNRbT5BpQ/Radiologo.jpg" grouop-ttile="New Zealand",Radio Southland 96.4 FM (Invercargill)
 http://pebbles.wizzhosting.co.nz/rs?listening-from-radio-garden=1558125229303
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Cave FM Gore (Gore)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Cave FM Gore (Gore)
 http://103.242.48.2:8010/stream?listening-from-radio-garden=1558125305966
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Radio One 91 FM (Dunedin)
+#EXTINF:-1 radio="true" tvg-logo="https://d3sv2eduhewoas.cloudfront.net/channel/image/31bafb72ac34493f89a7b9ab96bd9592.jpg" group-title="New Zealand",Radio One 91 FM (Dunedin)
 http://stream.r1.co.nz:8090/r1-high.mp3?listening-from-radio-garden=1558125342564
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Otago Access Radio 105.4 FM (Dunedin)
+#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1267444153/oar-logo-jpg_400x400.jpg" group-title="New Zealand",Otago Access Radio 105.4 FM (Dunedin)
 http://live.wizz.co.nz/tr?listening-from-radio-garden=1558125380119
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Rock It 107.4 (Port Chalmers)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Rock It 107.4 (Port Chalmers)
 http://108.163.223.242:8368/stream?listening-from-radio-garden=1558125437346
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Brian FM 105.5 Alexandra/Cromwell (Alexandra)
+#EXTINF:-1 radio="true" tvg-logo="http://brianfm.com/uploads/images/GalleryThumbs/24-8.jpg" group-title="New Zealand",Brian FM 105.5 Alexandra/Cromwell (Alexandra)
 http://s40.myradiostream.com:10004/;?listening-from-radio-garden=1558125485474
 
-#EXTINF:-1 radio="true" group-title="New Zealand",OMCRN (Wanaka)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",OMCRN (Wanaka)
 http://93.190.141.15:7096/stream?listening-from-radio-garden=1558125529795
 
-#EXTINF:-1 radio="true" group-title="New Zealand",High Country FM (Omarama)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",High Country FM (Omarama)
 http://s40.myradiostream.com:13548/listen.mp3?listening-from-radio-garden=1558125555761
 
-#EXTINF:-1 radio="true" group-title="New Zealand",100.3 FM South Canterbury (Timaru)
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/18/3e/183e3268ff05733e17be7e4ee0432cf4.jpg" group-title="New Zealand",100.3 FM South Canterbury (Timaru)
 http://uk4-vn.mixstream.net:8066/;?listening-from-radio-garden=1558125609809
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Brian FM Ashburton 99.7 FM (Ashburton)
+#EXTINF:-1 radio="true" tvg-logo="http://brianfm.com/uploads/images/GalleryThumbs/31-8.jpg" group-title="New Zealand",Brian FM Ashburton 99.7 FM (Ashburton)
 http://s40.myradiostream.com:10106/;?listening-from-radio-garden=1558125642752
 
-#EXTINF:-1 radio="true" group-title="New Zealand",107.4 BFM (ChristChurch)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",107.4 BFM (ChristChurch)
 http://91.121.65.37:21652/;?listening-from-radio-garden=1558125676028
 
-#EXTINF:-1 radio="true" group-title="New Zealand",8K.NZ (ChristChurch)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",8K.NZ (ChristChurch)
 http://radio8k.out.airtime.pro:8000/radio8k_a?listening-from-radio-garden=1558125750064
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Channel Z (ChristChurch)
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_Z_Logo.png/1200px-Channel_Z_Logo.png" group-title="New Zealand",Channel Z (ChristChurch)
 http://cassini.shoutca.st:8406/stream?listening-from-radio-garden=1558125780627
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Plains FM 96.9 (ChristChurch)
+#EXTINF:-1 radio="true" tvg-logo="http://plainsfm.org.nz/Styles/Images/PlainsFM_Logo.png" group-title="New Zealand",Plains FM 96.9 (ChristChurch)
 http://live.wizz.co.nz/pfm?listening-from-radio-garden=1558125803226
 
-#EXTINF:-1 radio="true" group-title="New Zealand",RDU 98.5 FM (ChristChurch)
+#EXTINF:-1 radio="true" tvg-logo="https://f4.bcbits.com/img/0007544995_10.jpg" group-title="New Zealand",RDU 98.5 FM (ChristChurch)
 http://live.outcastdigital.com:8000/rdu?listening-from-radio-garden=1558125829514
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Static: New Zealand (ChristChurch)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Static: New Zealand (ChristChurch)
 http://streamingv2.shoutcast.com/Static-NewZealand?lang=en-US%2cen%3bq%3d0.9
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Laser 558 (Denniston)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Laser 558 (Denniston)
 http://www.owdjim.gen.nz:12600/content/Laser558_Erin.mp3?listening-from-radio-garden=1558125884580
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Fresh FM (Nelson)
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.accessradio.org/StationFolder/freshfm/Images/Wendy---Fresh-Start1.png" group-title="New Zealand",Fresh FM (Nelson)
 http://live.wizz.co.nz/ffm?listening-from-radio-garden=1558125903932
 
-#EXTINF:-1 radio="true" group-title="New Zealand",World FM (Marahau)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",World FM (Marahau)
 http://worldfm.radio:8882/worldfmstereo.mp3?listening-from-radio-garden=1558125932472
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Awa Whanui Big River FM (Dargaville)
+#EXTINF:-1 radio="true" tvg-logo="http://www.bigriverfm.co.nz/resources/bigriverfmlogo.png" group-title="New Zealand",Awa Whanui Big River FM (Dargaville)
 http://bigriver.broadcast.co.nz/bigriverfm?listening-from-radio-garden=1558126523000
 
 #EXTINF:-1 radio="true" group-title="New Zealand",BeagleRadio (Whangarei)
