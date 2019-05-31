@@ -1335,139 +1335,139 @@ http://worldfm.radio:8882/worldfmstereo.mp3?listening-from-radio-garden=15581259
 #EXTINF:-1 radio="true" tvg-logo="http://www.bigriverfm.co.nz/resources/bigriverfmlogo.png" group-title="New Zealand",Awa Whanui Big River FM (Dargaville)
 http://bigriver.broadcast.co.nz/bigriverfm?listening-from-radio-garden=1558126523000
 
-#EXTINF:-1 radio="true" group-title="New Zealand",BeagleRadio (Whangarei)
+#EXTINF:-1 radio="true" tvg-logo="https://beagleradio.co.nz/wp-content/themes/beagle/gfx/logo-header@2x.gif" group-title="New Zealand",BeagleRadio (Whangarei)
 http://174.37.159.206:8034/stream?listening-from-radio-garden=1558126656359
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Ngati Hine FM (Whangarei)
+#EXTINF:-1 radio="true" tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/6/29376.v1.png" group-title="New Zealand",Ngati Hine FM (Whangarei)
 http://apple.irirangi.net:8000/N_Ngati_Hene.aac?listening-from-radio-garden=1558126713049
 
-#EXTINF:-1 radio="true" group-title="New Zealand",The Generator (Whangarei)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",The Generator (Whangarei)
 http://s1.myradiostream.com:14268/listen.mp3?listening-from-radio-garden=1558126757997
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Heads (Mangawhai)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Heads (Mangawhai)
 http://144.217.195.24:8760/stream?listening-from-radio-garden=1558126772660
 
-#EXTINF:-1 radio="true" group-title="New Zealand",95bFM (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="http://www.95bfm.com/sites/default/files/95bFM.png" group-title="New Zealand",95bFM (Auckland)
 http://streams.95bfm.com/stream128?listening-from-radio-garden=1558126825224
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Auckland 80s (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="https://www.auckland80s.com/uploads/1/1/9/0/119036082/editor/auckland-80s-6.png?1524613338" group-title="New Zealand",Auckland 80s (Auckland)
 http://janus.shoutca.st:8020/stream?listening-from-radio-garden=1558126838523
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Dave FM (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Dave FM (Auckland)
 http://s13.myradiostream.com:4618/listen.mp3?listening-from-radio-garden=1558126878516
 
-#EXTINF:-1 radio="true" group-title="New Zealand",East FM (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/164x164/c06ed39e0bf0aaca09afc500f33d79ee/mh/h2j959bc1e1ad5d92324918636.jpg" group-title="New Zealand",East FM (Auckland)
 http://listen.eastfm.nz/stream.mp3?listening-from-radio-garden=1558126898675
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Humm FM (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="http://www.online-fmradio.com/wp-content/uploads/2017/11/HUMM-106.2-FM.jpg" group-title="New Zealand",Humm FM (Auckland)
 http://93.190.141.15:7004/humm_64.mp3?listening-from-radio-garden=1558126910769
 
-#EXTINF:-1 radio="true" group-title="New Zealand",KFM 106.9 (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",KFM 106.9 (Auckland)
 http://s2.voscast.com:11614/;?listening-from-radio-garden=1558126945291
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Life FM Auckland (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Life FM Auckland (Auckland)
 http://rhema-radio.streamguys1.com/rhema-lifefm.mp3?listening-from-radio-garden=1558126969316
 
-#EXTINF:-1 radio="true" group-title="New Zealand",New Zealand's Rhema (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",New Zealand's Rhema (Auckland)
 http://rhema-radio.streamguys1.com/rhema.mp3?listening-from-radio-garden=1558126991200
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Planet FM 104.6 (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2015/11/Planet-FM-104.6.jpg" group-title="New Zealand",Planet FM 104.6 (Auckland)
 https://cp12.shoutcheap.com:18220/strem?listening-from-radio-garden=1558127019699
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Radio 531pi (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="https://static.radio.net/images/broadcasts/3e/6e/20642/c300.png" group-title="New Zealand",Radio 531pi (Auckland)
 http://19263.live.streamtheworld.com/531PI.mp3?listening-from-radio-garden=1558127046402
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Radio City (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Radio City (Auckland)
 http://54.251.110.128:8000/live?listening-from-radio-garden=1558127070399
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Radio New Zealand National (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="http://nellyben.com/wp-content/uploads/cache/2014/05/458_image_main/3502450334.png" group-title="New Zealand",Radio New Zealand National (Auckland)
 http://radionz-ice.streamguys.com/national.mp3?listening-from-radio-garden=1558127096464
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Radio Vox Brazil (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Radio Vox Brazil (Auckland)
 http://live.dgradios.com/voxbrazil_mp3_128k?listening-from-radio-garden=1558127111497
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Retro Hit Radio (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Retro_Hit_Radio_2013.png" group-title="New Zealand",Retro Hit Radio (Auckland)
 http://gemini.shoutca.st:8293/;?listening-from-radio-garden=1558127146964
 
-#EXTINF:-1 radio="true" group-title="New Zealand",West FM (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",West FM (Auckland)
 http://dledgar.dyndns.org:8000/westfm?listening-from-radio-garden=1558127175683
 
-#EXTINF:-1 radio="true" group-title="New Zealand",ZFM - All the Hits (Auckland)
+#EXTINF:-1 radio="true" tvg-logo="https://static.radio.net/images/broadcasts/59/4b/37726/1/c300.png" group-title="New Zealand",ZFM - All the Hits (Auckland)
 http://nebula.shoutca.st:8545/stream?listening-from-radio-garden=1558127194028
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Auckland 80s (Waiuku)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Auckland 80s (Waiuku)
 https://streamer.radio.co/s81fc850fd/listen?listening-from-radio-garden=1558127213802
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Easy 80s (Waiuku)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Easy 80s (Waiuku)
 http://procyon.shoutca.st:8032/;?listening-from-radio-garden=1558127260571
 
-#EXTINF:-1 radio="true" group-title="New Zealand",The Groove (Waiuku)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",The Groove (Waiuku)
 https://s2.radio.co/s8f365c534/listen?listening-from-radio-garden=1558127282326
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Sleep Radio (Te Aroha)
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/7e/d8/7ed87baec879c9267ed52de4e63bdd17.jpg" group-title="New Zealand",Sleep Radio (Te Aroha)
 http://149.56.234.138:8169/;?listening-from-radio-garden=1558127305484
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Free FM 89 (Hamilton)
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.accessradio.org/StationFolder/freefm89/Images/FreeFM89-STACK-lrge3.png" group-title="New Zealand",Free FM 89 (Hamilton)
 http://live.wizz.co.nz/freefm?listening-from-radio-garden=1558127329382
 
-#EXTINF:-1 radio="true" group-title="New Zealand",RAG FM 107.7 (Raglan)
+#EXTINF:-1 radio="true" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2013/09/raag-fm-107.7.jpg" group-title="New Zealand",RAG FM 107.7 (Raglan)
 http://70.38.12.44:8564/;?listening-from-radio-garden=1558127351143
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Raglan Community Radio (Raglan)
+#EXTINF:-1 radio="true" tvg-logo="http://raglanradio.com/wp-content/uploads/2016/11/featured_01.png" group-title="New Zealand",Raglan Community Radio (Raglan)
 http://58.28.153.160/broadwave.mp3?src=1&rate=128&listening-from-radio-garden=1558127374589
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Access Radio Taranaki 104.4 FM (New Plymouth)
+#EXTINF:-1 radio="true" tvg-logo="https://www.accessradiotaranaki.com/assets/Uploads/cms-branding/images/04d1e5e7dc/logo.png" group-title="New Zealand",Access Radio Taranaki 104.4 FM (New Plymouth)
 http://pebbles.wizzhosting.co.nz/art?listening-from-radio-garden=1558127402255
 
-#EXTINF:-1 radio="true" group-title="New Zealand",The Most 100.4 FM (New Plymouth)
+#EXTINF:-1 radio="true" tvg-logo="http://mostfm.co.nz/wp-content/uploads/2018/05/most8-1024x607.jpg" group-title="New Zealand",The Most 100.4 FM (New Plymouth)
 http://gordon.mostfm.com:8000/high?.mp3&listening-from-radio-garden=1558127431105
 
-#EXTINF:-1 radio="true" group-title="New Zealand",The Chill (Taupo)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",The Chill (Taupo)
 http://media-sov.musicradio.com/Chill?listening-from-radio-garden=1558127447521
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Spellbound Radio (Gisbourne)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Spellbound Radio (Gisbourne)
 http://158.69.225.238:6518/Live?listening-from-radio-garden=1558127488345
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Radio Kidnappers (Hastings)
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.accessradio.org/StationFolder/kidnappers/Images/Logo.jpg" group-title="New Zealand",Radio Kidnappers (Hastings)
 http://pebbles.wizzhosting.co.nz/rk?listening-from-radio-garden=1558127515645
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Access Manawatu 999 AM (Palmerston North)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Access Manawatu 999 AM (Palmerston North)
 http://live.wizz.co.nz/am?listening-from-radio-garden=1558127542144
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Radio Control (Palmerston North)
+#EXTINF:-1 radio="true" tvg-logo="https://f4.bcbits.com/img/0005808748_10.jpg" group-title="New Zealand",Radio Control (Palmerston North)
 http://ice1.outcastdigital.com:8000/radiocontrol?listening-from-radio-garden=1558127580825
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Coast Access Radio 104.7 FM (Waikanae)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Coast Access Radio 104.7 FM (Waikanae)
 http://live.wizz.co.nz/car?listening-from-radio-garden=1558127604308
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Andhow.FM (Porirua)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Andhow.FM (Porirua)
 http://199.180.75.6/;?listening-from-radio-garden=1558127638978
 
-#EXTINF:-1 radio="true" group-title="New Zealand",KIX FM (Wellington)
+#EXTINF:-1 radio="true" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2015/11/KIX-FM.jpg" group-title="New Zealand",KIX FM (Wellington)
 http://stream.amsmusic.co.nz:8178/stream?listening-from-radio-garden=1558127663761
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Maranui FM (Wellington)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Maranui FM (Wellington)
 http://pebbles.wizzhosting.co.nz/maranuifm?listening-from-radio-garden=1558127709611
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Mix FM 87.7 (Wellington)
+#EXTINF:-1 radio="true" tvg-logo="https://static.radio.net/images/broadcasts/d2/29/41708/1/c300.png" group-title="New Zealand",Mix FM 87.7 (Wellington)
 http://stream.mixfm.nz/?listening-from-radio-garden=1558127725748
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Naked FM (Wellington)
+#EXTINF:-1 radio="true" tvg-logo="" group-title="New Zealand",Naked FM (Wellington)
 http://203.96.209.218:8000/;?listening-from-radio-garden=1558127739367
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Radio Active (Wellington)
+#EXTINF:-1 radio="true" tvg-logo="http://www.radioactive.fm/wp-content/uploads/2019/01/RadioActive886_Stack@_pos-1.jpg" group-title="New Zealand",Radio Active (Wellington)
 http://stream.radioactive.fm:8000/ractive?listening-from-radio-garden=1558127756439
 
-#EXTINF:-1 radio="true" group-title="New Zealand",RNZ International (Wellington)
+#EXTINF:-1 radio="true" tvg-logo="http://stoppress.co.nz/media/VERSIONS/blog/2014/06/radionzlogo_1200x1200.png" group-title="New Zealand",RNZ International (Wellington)
 http://radionz-ice.streamguys.com/international.mp3?listening-from-radio-garden=1558127779345
 
-#EXTINF:-1 radio="true" group-title="New Zealand",RNZ National (Wellington)
+#EXTINF:-1 radio="true" tvg-logo="http://stoppress.co.nz/media/VERSIONS/blog/2014/06/radionzlogo_1200x1200.png" group-title="New Zealand",RNZ National (Wellington)
 http://radionz-ice.streamguys.com/national.mp3?listening-from-radio-garden=1558127795454
 
-#EXTINF:-1 radio="true" group-title="New Zealand",Wellington Access Radio 106.1 (Wellington)
+#EXTINF:-1 radio="true" tvg-logo="http://www.accessradio.org.nz/uploads/7/9/7/3/79736102/published/primary-logo.jpg?1502407845" group-title="New Zealand",Wellington Access Radio 106.1 (Wellington)
 http://live.wizz.co.nz/war?listening-from-radio-garden=1558127825088
 
-#EXTINF:-1 radio="true" group-title="New Zealand",World FM (Wellington)
+#EXTINF:-1 radio="true" tvg-logo="https://static.radio.net/images/broadcasts/c3/7f/7635/c300.png" group-title="New Zealand",World FM (Wellington)
 http://www.worldfm.co.nz:8882/worldfm.mp3?.mp3&listening-from-radio-garden=1558127849936
 
 #EXTINF:-1 radio="true" tvg-logo="http://www.88fmcookislands.com/uploads/8/3/1/7/83172428/88-boomboom-baby_2.jpg?306" group-title="Cook Islands",88 FM (Avarua Dist.)
