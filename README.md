@@ -127,3 +127,19 @@ Cook Islands (NZ)
 New Caledonia (France)
 
 Fiji
+
+(Below are not yet added)
+
+Guatemala
+
+Belize
+
+Honduras
+
+El Salvador
+
+Nicaragua
+
+Costa Rica
+
+Panama
