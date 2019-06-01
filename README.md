@@ -128,11 +128,11 @@ New Caledonia (France)
 
 Fiji
 
+Belize
+
 (Below are not yet added)
 
 Guatemala
-
-Belize
 
 Honduras
 
