@@ -1500,6 +1500,17 @@ http://peridot.streamguys.com:7150/RFOne?listening-from-radio-garden=15581889596
 #EXTINF:-1 radio="true" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vtWmJrjrae.png" group-title="Fiji",Radio Fiji Two (Suva)
 http://peridot.streamguys.com:7150/RFTwo?listening-from-radio-garden=1558188990698
 
+#EXTINF:-1 radio="true" tvg-logo="http://radioturquesa.fm/wp-content/uploads/2016/08/radio-turquesa-2016.png" group-title="Belize",Radio Turquesa Belize 91.5 FM (Corozal)
+http://184.154.45.106:8464/stream?listening-from-radio-garden=1559413605346
+
+#EXTINF:-1 radio="true" tvg-logo="http://lovefm.com/wp-content/uploads/2018/02/lovefm-logo.png" group-title="Belize",Love FM 98.1 (Orange Walk)
+http://37.59.37.6:14730/;?listening-from-radio-garden=1559413648010
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.krembz.com/wp-content/uploads/2014/02/cropped-logo.png" group-title="Belize",KREM FM (Belize City)
+http://159.65.32.199:8016/stream?listening-from-radio-garden=1559413670803
+
+#EXTINF:-1 radio="true" tvg-logo="https://d3sv2eduhewoas.cloudfront.net/channel/image/d8944e615ee949aa8c257aac6be22385.jpg" group-title="Belize",501 Nation (Dangriga)
+http://159.65.32.199:8066/streambel?listening-from-radio-garden=1559413691805
 
 
 
