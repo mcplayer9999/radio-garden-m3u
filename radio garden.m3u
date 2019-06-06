@@ -1515,6 +1515,95 @@ http://159.65.32.199:8016/stream?listening-from-radio-garden=1559413670803
 #EXTINF:-1 radio="true" tvg-logo="https://d3sv2eduhewoas.cloudfront.net/channel/image/d8944e615ee949aa8c257aac6be22385.jpg" group-title="Belize",501 Nation (Dangriga)
 http://159.65.32.199:8066/streambel?listening-from-radio-garden=1559413691805
 
+#EXTINF:-1 radio="true" tvg-logo="http://beatlifepanama.com/wp-content/themes/beatlife/img/logo-circle.png" group-title="Panama",Beat Life (David)
+http://167.114.210.232:8113/;?listening-from-radio-garden=1559838574035
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2017/10/MUMA-Radio.jpg" group-title="Panama",Muma Radio (David)
+http://192.99.18.107:8014/;?listening-from-radio-garden=1559838624290
+
+#EXTINF:-1 radio="true" tvg-logo="http://cdn-radiotime-logos.tunein.com/s149187q.png" group-title="Panama",Mundo Osha (David)
+http://192.99.18.107:8090/;?listening-from-radio-garden=1559838659165
+
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/30/99/3099006488105b25a742460efb4ff61a.jpg" group-title="Panama",Radio Chiriqui 103.3 (David)
+http://190.105.153.41:9000/1033.mp3?listening-from-radio-garden=1559838690414
+
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/30/99/3099006488105b25a742460efb4ff61a.jpg" group-title="Panama",Radio Chiriqui 106.9 (David)
+http://190.105.153.41:8002/1069?listening-from-radio-garden=1559838718248
+
+#EXTINF:-1 radio="true" tvg-logo="https://i3.radionomy.com/radios/400/bf4a754a-9024-46d2-86ac-2c235411980f.jpg" group-title="Panama",Odenas Centrales 970 AM (Santiago)
+http://142.4.217.133:8526/;?listening-from-radio-garden=1559838744556
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.superstereo995.com/wp-content/uploads/2016/10/superstereo-logo-web.jpg" group-title="Panama",Super Stereo 99.5 FM (Santiago)
+http://142.4.217.133:8522/;?listening-from-radio-garden=1559838780054
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Panama",Presidente 98 (Chitre)
+http://www.streaming507.com:8126/stream?listening-from-radio-garden=1559838796288
+
+#EXTINF:-1 radio="true" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/22/7c/8b/227c8bed-b425-aa88-86ae-a26afadfcff6/source/512x512bb.jpg" group-title="Panama",Radio Reforma (Chitre)
+http://www.streaming507.com:8072/stream?listening-from-radio-garden=1559838824566
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Panama",Original Stereo (Los Cerros)
+http://rosetta.shoutca.st:8931/stream?listening-from-radio-garden=1559838846841
+
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/39/fb/39fbb4895d937ad685bb3c88ae7c3999.jpg" group-title="Panama",102.3 FM Xona (Colon)
+http://96.127.183.74:8542/;?listening-from-radio-garden=1559838886888
+
+#EXTINF:-1 radio="true" tvg-logo="https://img7.androidappsapk.co/300/6/4/5/net.marbellastereo.marbellastereo.png" group-title="Panama",Marbella Stereo (Colon)
+http://70.38.73.27:8017/live?listening-from-radio-garden=1559838912907
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Panama",Republica Retro (Panama City)
+http://node-05.zeno.fm/gw5wzp11xrquv?listening-from-radio-garden=1559838983465&rj-token=AAABay2vLk6314ebsy_todaqq_SG-AwqfTqbnt7AzB_Tl8TwdimLJg&rj-ttl=5
+
+#EXTINF:-1 radio="true" tvg-logo="https://img3.androidappsapk.co/300/1/9/3/s42.radio.radiorpc.png" group-title="Panama",RPC Radio (Panama City)
+https://medcomlivevideo.azureedge.net/rpcradio/live-mp3-source/icecast.audio?listening-from-radio-garden=1559838997007
+
+#EXTINF:-1 radio="true" tvg-logo="https://static.radio.net/images/broadcasts/b2/f2/105099/1/c300.png" group-title="Panama",Salsa 106 Online (Panama City)
+http://192.99.44.11:2525/;?listening-from-radio-garden=1559839006865
+
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/d1/5e/d15e45a0b9538cdadc2f379771e4c580.jpg" group-title="Panama",Stereo 89 (Panama City)
+http://ic.streann.com:8000/Stereo89?listening-from-radio-garden=1559839023916
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2017/03/Telemetro-Radio.jpg" group-title="Panama",Telemetro Radio FM 104.1 (Panama City)
+https://medcomlivevideo.azureedge.net/tmradio/live-mp3-source/icecast.audio?listening-from-radio-garden=1559839032872
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.wao975.fm/wao.png" group-title="Panama",WAO 97.5 (Panama City)
+http://ic.streann.com:8000/wao?listening-from-radio-garden=1559839053054
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Panama",La Nuestra 102.1 (Panama City)
+http://www.streaming507.com:8136/stream?listening-from-radio-garden=1559839069568
+
+#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/932699395811786752/AQKZNKYZ_400x400.jpg" group-title="Panama",Los 40 Panama (Panama City)
+http://18703.live.streamtheworld.com/LOS40_PAN_SC?listening-from-radio-garden=1559839084705
+
+#EXTINF:-1 radio="true" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/464cf01e2f32db184bf125dc9a982fce.jpg" group-title="Panama",Quiubo Estereo (Panama City)
+http://17973.live.streamtheworld.com/QUBO_SC?listening-from-radio-garden=1559839097246
+
+#EXTINF:-1 radio="true" tvg-logo="https://radioclaret.net/wp-content/uploads/2018/12/LOGO-1.png" group-title="Panama",Radio Claret Digital (Panama City)
+http://stream2.emisorasvirtuales.com:8066/;?listening-from-radio-garden=1559839114835
+
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/9e/8e/9e8e9e81dffdf12bcd1cc6e0f039d2ee.jpg" group-title="Panama",Radio Maria Panama (Panama City)
+http://dreamsiteradiocp.com:8082/;?listening-from-radio-garden=1559839125429
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.radiopanama.com.pa/iconos/v1.x/v1.0/varios/logo200x200.png" group-title="Panama",Radio Panama (Panama City)
+http://18703.live.streamtheworld.com/RADIO_PANAMAFM_SC?listening-from-radio-garden=1559839135722
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.ytimg.com/vi/ml_JaeD7eYU/maxresdefault.jpg" group-title="Panama",103.7 FM Play (Panama City)
+http://i50.letio.com/9150.aac?listening-from-radio-garden=1559839148248
+
+#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1038147565173202944/8vaXyi75.jpg" group-title="Panama",Antena 8 (Panama City)
+http://18703.live.streamtheworld.com/ANT8_SC?listening-from-radio-garden=1559839161805
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.mmradio.com/lacaliente963/images/logo.png" group-title="Panama",Caliente Radio FM 96.3 (Panama City)
+https://medcomlivevideo.azureedge.net/caliente/live-mp3-source/icecast.audio?listening-from-radio-garden=1559839171009
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Panama",Cool FM (Panama City)
+http://14073.live.streamtheworld.com:3690/COOLFM_SC?listening-from-radio-garden=1559839187591
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2017/03/Estereo-Azul.jpg" group-title="Panama",Estereo Azul (Panama City)
+http://18703.live.streamtheworld.com/ESTEREOAZUL_SC?listening-from-radio-garden=1559839198749
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Panama",Faro de David Stereo (Panama City)
+http://5.39.82.140:8030/;?listening-from-radio-garden=1559839210621
 
 
 
