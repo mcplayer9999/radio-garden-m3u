@@ -132,6 +132,8 @@ Liberia
 
 Belize
 
+Panama
+
 (Below are not yet added)
 
 Guatemala
@@ -143,5 +145,3 @@ El Salvador
 Nicaragua
 
 Costa Rica
-
-Panama
