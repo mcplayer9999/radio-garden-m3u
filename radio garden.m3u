@@ -1605,9 +1605,113 @@ http://18703.live.streamtheworld.com/ESTEREOAZUL_SC?listening-from-radio-garden=
 #EXTINF:-1 radio="true" tvg-logo="" group-title="Panama",Faro de David Stereo (Panama City)
 http://5.39.82.140:8030/;?listening-from-radio-garden=1559839210621
 
+#EXTINF:-1 radio="true" tvg-logo="https://lh3.googleusercontent.com/Ot4jyfOJWjGkbBY-WlrKdGsLJ6Vv2yBKowtQtlnoeF4RoYKaW3Osyi669ytwkdXDwv4" group-title="Costa Rica",Kaos Mix Radio (Paso Canoas)
+http://streamers.hostingtico.com:8092/;?listening-from-radio-garden=1570301891826
 
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Costa Rica",Radio Sinaí (San Isidro del General)
+http://198.27.68.65:8785/stream?listening-from-radio-garden=1570301977537
 
+#EXTINF:-1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/df/75/df75299582c60237eba6d02e3c6fc082.jpg" group-title="Costa Rica",107.9 FM Bahia (Puerto Limón)
+http://91.121.178.222:8368/;?listening-from-radio-garden=1570302041686
 
+#EXTINF:-1 radio="true" tvg-logo="https://radiocostarica.org/sites/default/files/radio/logos/logo-pococi-fm.jpg" group-title="Costa Rica",Pocoi FM (Puerto Limón)
+http://149.56.195.94:8694/stream?listening-from-radio-garden=1570302326110
+
+#EXTINF:-1 radio="true" tvg-logo="http://cdn-radiotime-logos.tunein.com/s9913g.png" group-title="Costa Rica",Radio Casino 98.3 (Puerto Limón)
+hhttp://149.56.195.94:8696/;?listening-from-radio-garden=1570302305707
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Costa Rica",Radio Siquirres Net (Siquirres)
+http://199.195.194.140:8288/;?listening-from-radio-garden=1570302258626
+
+#EXTINF:-1 radio="true" tvg-logo="https://eng.ucr.ac.cr/medios/imagenes/2012/escudo_p.jpg" group-title="Costa Rica",870 UCR (San Pedro)
+http://i50.letio.com/8124.aac?listening-from-radio-garden=1570302353878
+
+#EXTINF:-1 radio="true" tvg-logo="https://eng.ucr.ac.cr/medios/imagenes/2012/escudo_p.jpg" group-title="Costa Rica",Radio U (San Pedro)
+http://i60.letio.com/8126.aac?listening-from-radio-garden=1570302534406
+
+#EXTINF:-1 radio="true" tvg-logo="https://eng.ucr.ac.cr/medios/imagenes/2012/escudo_p.jpg" group-title="Costa Rica",Radio Universidad (San Pedro)
+http://i50.letio.com/8120.aac?listening-from-radio-garden=1570302585558
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Costa Rica",Oldies Hits (Goicoechea)
+http://stream.gknsoporte.com:8004/stream?listening-from-radio-garden=1570302609287
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.camarabrunca.com/wp-content/uploads/2017/05/88-STEREO-OFICIAL-ROJO.png" group-title="Costa Rica",88 Stereo (San Isidro)
+http://streams.y2kwebs.com:9988/;?listening-from-radio-garden=1570302718380
+
+#EXTINF:-1 radio="true" tvg-logo="http://rc0.nobexinc.com/StationImage.ashx?Size=300&StationID=83026" group-title="Costa Rica",Tucanradio (Moravia)
+http://198.27.83.65:9316/stream?listening-from-radio-garden=1570302748824
+
+#EXTINF:-1 radio="true" tvg-logo="http://ondabravaradio.com/wp-content/themes/ondabravaradio/img/logo-ondabrava-circle.png" group-title="Costa Rica",Onda Brava Radio (Liberia)
+http://167.114.210.232:8221/;?listening-from-radio-garden=1570302842328
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Costa Rica",Romántica Estéreo (Bagaces)
+http://144.217.76.188:8193/;?listening-from-radio-garden=1570302876550
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Costa Rica",Radio Son de Costa Rica (Santa Cruz)
+http://94.23.6.53:8075/stream?listening-from-radio-garden=1570302912188
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.radiodiria.com/img/RADIODIRIA.png" group-title="Costa Rica",Radio Diriá (Santa Cruz)
+http://s3.free-shoutcast.com:18724/;?listening-from-radio-garden=1570302991290
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Costa Rica",Shark FM (Tamarindo)
+http://50.7.99.155:7495/;stream.mp3?listening-from-radio-garden=1570303030909
+
+#EXTINF:-1 radio="true" tvg-logo="https://d2iw5las1rjvep.cloudfront.net/rfm/uploads/rlogo/300/300_1504390963.png" group-title="Costa Rica",89.1 FM (San José)
+http://14013.live.streamtheworld.com/SUPER_ESTACIONAAC.aac?listening-from-radio-garden=1570303062548
+
+#EXTINF:-1 radio="true" tvg-logo="http://cdn-radiotime-logos.tunein.com/s13186g.png" group-title="Costa Rica",95.5 Cinco Jazz (San José)
+https://streamer.radio.co/s967167041/listen?listening-from-radio-garden=1570303163472
+
+#EXTINF:-1 radio="true" tvg-logo="http://cdn-radiotime-logos.tunein.com/s13187q.png" group-title="Costa Rica",99.5 Radio Dos FM (San José)
+http://streamer.radio.co/s06e110935/listen?listening-from-radio-garden=1570303186077
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Costa Rica",CHM Stereo (San José)
+http://node-30.zeno.fm/kyv73nmvg4duv?listening-from-radio-garden=1570303204954&rj-token=AAABbZ1mh2_VXmui22J_7wxj8lPw8_VL-z03WuH0XN8x8onbX5LYxw&rj-ttl=5
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Costa Rica",Columbia Estereo 92.7 FM (San José)
+http://secolumbia.cyberfuel.com:8099/file.aac?listening-from-radio-garden=1570303226815
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Costa Rica",Columbia FM 98.7 (San José)
+https://streams.radio.co/s419eaa350/listen?listening-from-radio-garden=1570303244999
+
+#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/164x164/430af0034a5ab04491c763ce6ca3578d/n0/b7ys597480eae81c2403440940.jpg" group-title="Costa Rica",Fedbak Radio (San José)
+http://91.121.165.88:8020/stream?listening-from-radio-garden=1570303267421
+
+#EXTINF:-1 radio="true" tvg-logo="https://cdn.raddio.net/storage/photos/27439/x7zv5c255330d3dc0460564814.png" group-title="Costa Rica",IQ Radio 93.9 (San José)
+http://rtvhd.net:9942/;?listening-from-radio-garden=1570303284673
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/06/Jahta-Radio-Live.jpg" group-title="Costa Rica",Jahta Radio Live (San José)
+https://usa7.fastcast4u.com/proxy/mdjscwwh?mp=/1&listening-from-radio-garden=1570303392759
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Costa Rica",Mundo Rock (San José)
+http://192.99.32.79:9302/;?listening-from-radio-garden=1570303409382
+
+#EXTINF:-1 radio="true" tvg-logo="https://d2iw5las1rjvep.cloudfront.net/rfm/uploads/rlogo/300/300_1494116436.jpg" group-title="Costa Rica",Mundo Rock Radio (San José)
+http://192.99.32.79:9302/;?listening-from-radio-garden=1570303434144
+
+#EXTINF:-1 radio="true" tvg-logo="http://cdn-radiotime-logos.tunein.com/s9039g.png" group-title="Costa Rica",OK FM 105.5 (San José)
+http://okradio.rtvhd.net:8130/;*.nsv?listening-from-radio-garden=1570303451433
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2019/08/poder-retro.jpg" group-title="Costa Rica",Poder Retro (San José)
+http://167.114.157.212:8125/;?listening-from-radio-garden=1570303468157
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Costa Rica",Radio Disney (San José)
+http://ic.streann.com:8000/disneycostarica?listening-from-radio-garden=1570303482961
+
+#EXTINF:-1 radio="true" tvg-logo="http://1047hit.com/wp/wp-content/uploads/2016/06/logo.png" group-title="Costa Rica",Radio Hit 104.7 (San José)
+http://s8.voscast.com:7528/;?listening-from-radio-garden=1570303499133
+
+#EXTINF:-1 radio="true" tvg-logo="http://www.radiolagigante800am.com/images/Logo2.gif" group-title="Costa Rica",Radio La Gigante 800AM (San José)
+http://radiolatina.info:9982/;?listening-from-radio-garden=1570303520098
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Costa Rica",Radio Maria (San José)
+http://dreamsiteradiocp2.com:8044/;?listening-from-radio-garden=1570303543861
+
+#EXTINF:-1 radio="true" tvg-logo="https://static.radio.net/images/broadcasts/f2/77/14868/1/c300.png" group-title="Costa Rica",Radio Musical 97.5 FM (San José)
+http://198.178.123.2:7274/;?listening-from-radio-garden=1570303560552
+
+#EXTINF:-1 radio="true" tvg-logo="" group-title="Costa Rica",Radio Nova (San José)
+http://centova.hostingtico.com:8016/stream?listening-from-radio-garden=1570303579261
 
 
 
