@@ -134,6 +134,8 @@ Belize
 
 Panama
 
+Costa Rica
+
 (Below are not yet added)
 
 Guatemala
@@ -144,4 +146,3 @@ El Salvador
 
 Nicaragua
 
-Costa Rica
